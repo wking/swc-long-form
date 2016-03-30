@@ -1,4 +1,3 @@
-// Where's open?
 digraph scb {
 	// Properties.
 	rankdir = "LR";
@@ -16,7 +15,7 @@ digraph scb {
 		q_find_use_others_software [label="How can I find and use\nother people's software?"];
 		q_improve_productivity [label="How can I be more productive?"];
 		q_make_collaboration_easy [label="How can I make it easy for people\nto collaborate with me?"];
-		q_make_data_findable [label="How can I make it easy for people\nto find and use my data?"];
+		q_make_data_findable_usable [label="How can I make it easy for people\nto find and use my data?"];
 		q_make_data_usable_by_programs [label="How can I make it easy\nfor programs to use my data?"];
 		q_make_software_findable_usable [label="How can I make it easy for people\nto find and use my software?"];
 		q_results_correct [label="How can I tell if my results are correct?"];
@@ -60,7 +59,7 @@ digraph scb {
 		a_master_manuscript_online [label="Keep the master copy of every manuscript on the web."];
 		a_meaningful_path_names [label="Use meaningful path names."];
 		a_normalize_data [label="Normalize data."];
-		a_prefer_open_text [label="Prefer open text formats to proprietary non-text formats."];
+		a_open_text_formats [label="Prefer open text formats to proprietary non-text formats."];
 		a_profile_performance [label="Find performance bottlenecks."];
 		a_project_todo_list [label="Maintain a to-do list for each project."];
 		a_record_analysis_steps_textually [label="Represent every analysis step textually."];
@@ -82,12 +81,13 @@ digraph scb {
 		a_store_raw_data [label="Store raw data exactly as it arrived."];
 		a_store_work_remote_repo [label="Store work in a remotely-hosted version control repository."];
 		a_treat_metadata_like_data [label="Treat metadata like data."];
-		a_use_dictionaries [label="Use dictionaries."];
-		a_use_more_hardware [label="Use more hardware."];
 		a_use_config_files [label="Use configuration files and conditionals rather than commenting."];
+		a_use_dictionaries [label="Use dictionaries."];
 		a_use_efficient_data_structures [label="Use efficient data structures."];
 		a_use_functions [label="Break programs into short, self-contained functions."];
 		a_use_matchable_text [label="Use text values that are easy to match with regular expressions."];
+		a_use_more_hardware [label="Use more hardware."];
+		a_use_open_license [label="Use an open license."];
 		a_use_package_manager [label="Use a package manager."];
 		a_use_relational_database [label="Store data in a relational database."];
 		a_write_readable_software [label="Write readable software."];
@@ -102,6 +102,7 @@ digraph scb {
 		rank = "same";
 		t_add_to_repository [label="Adding Files to a Repository"];
 		t_aggregating_data [label="Aggregating Data"];
+		t_barriers_to_participation [label="Barriers to Participation", fillcolor="honeydew", style="filled"];
 		t_blogging [label="Publishing a Blog", fillcolor="honeydew", style="filled"];
 		t_boilerplate_citation [label="Specifying Citations", fillcolor="honeydew", style="filled"];
 		t_boilerplate_license [label="Specifying a License"];
@@ -136,7 +137,6 @@ digraph scb {
 		t_finding_software [label="Finding Software", fillcolor="honeydew", style="filled"];
 		t_formatting_spreadsheets [label="Formatting Spreadsheets", fillcolor="honeydew", style="filled"];
 		t_getting_doi [label="Using DOIs", fillcolor="honeydew", style="filled"];
-		t_getting_orcid [label="Using ORCIDs", fillcolor="honeydew", style="filled"];
 		t_good_commit_comments [label="Writing Good Commit Comments", fillcolor="honeydew", style="filled"];
 		t_handling_missing_data [label="Handling Missing Data"];
 		t_identify_starting_points [label="Identify Starting Points"];
@@ -147,14 +147,15 @@ digraph scb {
 		t_introducing_version_control [label="Introducing Version Control"];
 		t_issue_tracking [label="Issue Tracking", fillcolor="honeydew", style="filled"];
 		t_joining_data [label="Combining Data Using Join"];
-		t_learn_about_barriers [label="Learn About Barriers to Participation", fillcolor="honeydew", style="filled"];
 		t_logging [label="Logging Program Execution", fillcolor="honeydew", style="filled"];
+		t_managing_email [label="Managing Email", fillcolor="honeydew", style="filled"];
 		t_managing_files [label="Creating, Deleting, and Managing Files"];
 		t_merging_changes [label="Merging Changes"];
 		t_metadata [label="Storing Metadata", fillcolor="honeydew", style="filled"];
 		t_models_vs_views [label="Models vs. Views", fillcolor="honeydew", style="filled"];
 		t_navigating_file_system [label="Navigating the File System"];
 		t_nobles_rules [label="Noble's Rules for Organizing Projects", fillcolor="honeydew", style="filled"];
+		t_open_license [label="Open Licenses", fillcolor="honeydew", style="filled"];
 		t_pipes_filters [label="Pipes and Filters"];
 		t_plotting [label="Plotting", fillcolor="honeydew", style="filled"];
 		t_profiling [label="Profiling Performance", fillcolor="honeydew", style="filled"];
@@ -184,6 +185,7 @@ digraph scb {
 		t_using_make [label="Using Make"];
 		t_using_numpy [label="Using NumPy", fillcolor="honeydew", style="filled"];
 		t_using_openrefine [label="Using OpenRefine", fillcolor="honeydew", style="filled"];
+		t_using_orcid [label="Using ORCIDs", fillcolor="honeydew", style="filled"];
 		t_using_pandas [label="Using Pandas", fillcolor="honeydew", style="filled"];
 		t_using_regular_expressions [label="Using Regular Expressions", fillcolor="honeydew", style="filled"];
 		t_using_web_authoring [label="Using Web-based Authoring Tools", fillcolor="honeydew", style="filled"];
@@ -204,7 +206,7 @@ digraph scb {
 
 	q_avoid_losing_work:e -> a_add_human_work_to_repo:w;
 	q_avoid_losing_work:e -> a_good_commit_comments:w;
-	q_avoid_losing_work:e -> a_prefer_open_text:w;
+	q_avoid_losing_work:e -> a_open_text_formats:w;
 	q_avoid_losing_work:e -> a_store_work_remote_repo:w;
 	q_find_use_others_data:e -> a_reuse_libraries:w;
 	q_find_use_others_data:e -> a_search_data_repositories:w;
@@ -231,16 +233,17 @@ digraph scb {
 	q_make_collaboration_easy:e -> a_set_up_development:w;
 	q_make_collaboration_easy:e -> a_specify_citation:w;
 	q_make_collaboration_easy:e -> a_specify_license:w;
-	q_make_data_findable:e -> a_clean_up_data:w;
-	q_make_data_findable:e -> a_data_doi:w;
-	q_make_data_findable:e -> a_dont_duplicate_large_data:w;
-	q_make_data_findable:e -> a_meaningful_path_names:w;
-	q_make_data_findable:e -> a_normalize_data:w;
-	q_make_data_findable:e -> a_regular_spreadsheet_layout:w;
-	q_make_data_findable:e -> a_separate_models_from_views:w;
-	q_make_data_findable:e -> a_store_raw_data:w;
-	q_make_data_findable:e -> a_treat_metadata_like_data:w;
-	q_make_data_findable:e -> a_use_relational_database:w;
+	q_make_data_findable_usable:e -> a_clean_up_data:w;
+	q_make_data_findable_usable:e -> a_data_doi:w;
+	q_make_data_findable_usable:e -> a_dont_duplicate_large_data:w;
+	q_make_data_findable_usable:e -> a_meaningful_path_names:w;
+	q_make_data_findable_usable:e -> a_normalize_data:w;
+	q_make_data_findable_usable:e -> a_regular_spreadsheet_layout:w;
+	q_make_data_findable_usable:e -> a_separate_models_from_views:w;
+	q_make_data_findable_usable:e -> a_store_raw_data:w;
+	q_make_data_findable_usable:e -> a_treat_metadata_like_data:w;
+	q_make_data_findable_usable:e -> a_use_open_license:w;
+	q_make_data_findable_usable:e -> a_use_relational_database:w;
 	q_make_data_usable_by_programs:e -> a_atomic_values:w;
 	q_make_data_usable_by_programs:e -> a_avoid_duplication:w;
 	q_make_data_usable_by_programs:e -> a_keys_for_records:w;
@@ -260,6 +263,7 @@ digraph scb {
 	q_make_software_findable_usable:e -> a_use_config_files:w;
 	q_make_software_findable_usable:e -> a_use_dictionaries:w;
 	q_make_software_findable_usable:e -> a_use_functions:w;
+	q_make_software_findable_usable:e -> a_use_open_license:w;
 	q_results_correct:e -> a_add_assertions:w;
 	q_results_correct:e -> a_build_and_smoke_tests:w;
 	q_results_correct:e -> a_choose_visualization:w;
@@ -288,6 +292,8 @@ digraph scb {
 	a_build_tools:e -> t_writing_programs:w;
 	a_build_tools:e -> t_writing_shell_scripts:w;
 	a_choose_primary_communication_channel:e -> t_blogging:w;
+	a_choose_primary_communication_channel:e -> t_issue_tracking:w;
+	a_choose_primary_communication_channel:e -> t_managing_email:w;
 	a_choose_visualization:e -> t_choosing_visualization:w;
 	a_clean_up_data:e -> t_data_hygiene:w;
 	a_clean_up_data:e -> t_introducing_openrefine:w;
@@ -305,9 +311,9 @@ digraph scb {
 	a_eliminate_redundant_calculation:e -> t_using_make:w;
 	a_explicit_requirements:e -> t_documenting_requirements:w;
 	a_foster_welcoming_environment:e -> t_code_of_conduct:w;
-	a_foster_welcoming_environment:e -> t_learn_about_barriers:w;
 	a_foster_welcoming_environment:e -> t_identify_starting_points:w;
-	a_get_orcid:e -> t_getting_orcid:w;
+	a_foster_welcoming_environment:e -> t_barriers_to_participation:w;
+	a_get_orcid:e -> t_using_orcid:w;
 	a_give_code_meaningful_names:e -> t_programming_style:w;
 	a_good_commit_comments:e -> t_good_commit_comments:w;
 	a_have_computer_repeat_things:e -> t_writing_python_loops:w;
@@ -315,16 +321,16 @@ digraph scb {
 	a_include_readme:e -> t_boilerplate_readme:w;
 	a_include_readme:e -> t_documenting_requirements:w;
 	a_isolate_dependencies:e -> t_taschuks_rules:w;
-	a_keys_for_records:e -> t_python_dictionaries:w;
 	a_keys_for_records:e -> t_data_hygiene:w;
-	a_master_manuscript_online:e -> t_using_web_authoring:w;
+	a_keys_for_records:e -> t_python_dictionaries:w;
 	a_master_manuscript_online:e -> t_introducing_version_control:w;
+	a_master_manuscript_online:e -> t_using_web_authoring:w;
 	a_meaningful_path_names:e -> t_choosing_good_path_names:w;
 	a_meaningful_path_names:e -> t_filename_extensions:w;
 	a_normalize_data:e -> t_formatting_spreadsheets:w;
 	a_normalize_data:e -> t_introducing_relational_databases:w;
-	a_prefer_open_text:e -> t_csv_intro:w;
-	a_prefer_open_text:e -> t_read_csv:w;
+	a_open_text_formats:e -> t_csv_intro:w;
+	a_open_text_formats:e -> t_read_csv:w;
 	a_profile_performance:e -> t_profiling:w;
 	a_project_todo_list:e -> t_issue_tracking:w;
 	a_record_analysis_steps_textually:e -> t_exporting_openrefine_history:w;
@@ -356,10 +362,10 @@ digraph scb {
 	a_store_work_remote_repo:e -> t_ignoring_files:w;
 	a_store_work_remote_repo:e -> t_introducing_version_control:w;
 	a_treat_metadata_like_data:e -> t_metadata:w;
-	a_use_dictionaries:e -> t_python_dictionaries:w;
 	a_use_config_files:e -> t_conditionals:w;
 	a_use_config_files:e -> t_program_configuration:w;
 	a_use_config_files:e -> t_programming_style:w;
+	a_use_dictionaries:e -> t_python_dictionaries:w;
 	a_use_efficient_data_structures:e -> t_python_dictionaries:w;
 	a_use_efficient_data_structures:e -> t_python_lists:w;
 	a_use_efficient_data_structures:e -> t_using_numpy:w;
@@ -369,6 +375,7 @@ digraph scb {
 	a_use_matchable_text:e -> t_using_regular_expressions:w;
 	a_use_more_hardware:e -> t_computer_architecture:w;
 	a_use_more_hardware:e -> t_task_farming:w;
+	a_use_open_license:e -> t_open_license:w;
 	a_use_package_manager:e -> t_use_package_manager:w;
 	a_use_relational_database:e -> t_aggregating_data:w;
 	a_use_relational_database:e -> t_creating_database:w;
@@ -390,17 +397,20 @@ digraph scb {
 	t_add_to_repository:e -> t_creating_repository:e;
 	t_add_to_repository:e -> t_introducing_version_control:e;
 	t_aggregating_data:e -> t_handling_missing_data:e;
+	t_barriers_to_participation:e -> t_managing_email:e;
 	t_blogging:e -> t_using_web_authoring:e;
+	t_boilerplate_citation:e -> t_using_orcid:e;
 	t_call_stack:e -> t_variable_scope:e;
 	t_choosing_good_path_names:e -> t_filename_extensions:e;
 	t_choosing_good_path_names:e -> t_finding_files:e;
 	t_choosing_repository_host:e -> t_introducing_version_control:e;
 	t_choosing_visualization:e -> t_plotting:e;
-	t_code_of_conduct:e -> t_learn_about_barriers:e;
+	t_code_of_conduct:e -> t_barriers_to_participation:e;
 	t_code_reviews:e -> t_merging_changes:e;
 	t_code_reviews:e -> t_reviewing_version_history:e;
 	t_code_reviews:e -> t_using_branches:e;
 	t_computer_architecture:e -> t_data_types:e;
+	t_conditionals:e -> t_boolean_operators:e;
 	t_continuous_integration:e -> t_commit_checklist:e;
 	t_creating_database:e -> t_joining_data:e;
 	t_creating_repository:e -> t_introducing_version_control:e;
@@ -419,11 +429,13 @@ digraph scb {
 	t_introducing_openrefine:e -> t_formatting_spreadsheets:e;
 	t_joining_data:e -> t_handling_missing_data:e;
 	t_managing_files:e -> t_using_editor:e;
+	t_open_license:e -> t_boilerplate_license:e;
 	t_plotting:e -> t_using_libraries:e;
 	t_plotting:e -> t_using_pandas:e;
 	t_profiling:e -> t_computer_architecture:e;
-	t_program_configuration:e -> t_environment_variables:e;
 	t_program_configuration:e -> t_boolean_operators:e;
+	t_program_configuration:e -> t_environment_variables:e;
+	t_program_configuration:e -> t_ignoring_files:e;
 	t_programming_databases:e -> t_selecting_data:e;
 	t_programming_style:e -> t_writing_functions:e;
 	t_read_csv:e -> t_csv_intro:e;
