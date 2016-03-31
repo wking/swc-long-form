@@ -19,7 +19,6 @@ digraph scb {
 		q_make_data_usable_by_programs [label="How can I make it easy\nfor programs to use my data?"];
 		q_make_software_findable_usable [label="How can I make it easy for people\nto find and use my software?"];
 		q_results_correct [label="How can I tell if my results are correct?"];
-		q_results_reproducible [label="How can I make it easy for people\nto reproduce my results?"];
 	}
 
 	// ----------------------------------------
@@ -68,6 +67,7 @@ digraph scb {
 		a_regular_spreadsheet_layout [label="Use regular layout for spreadsheets."];
 		a_remove_unused_code [label="Remove unused code."];
 		a_represent_each_fact_once [label="Represent each fact once."];
+		a_results_repeatable [label="Make results repeatable."];
 		a_reuse_libraries [label="Re-use libraries rather than writing equivalents."];
 		a_run_precommit_checks [label="Run tests automatically before each commit."];
 		a_search_answer_sites [label="Search question-and-answer sites."];
@@ -221,21 +221,25 @@ digraph scb {
 	q_improve_productivity:e -> a_eliminate_redundant_calculation:w;
 	q_improve_productivity:e -> a_have_computer_repeat_things:w;
 	q_improve_productivity:e -> a_profile_performance:w;
+	q_improve_productivity:e -> a_results_repeatable:w;
 	q_improve_productivity:e -> a_use_efficient_data_structures:w;
 	q_improve_productivity:e -> a_use_more_hardware:w;
 	q_make_collaboration_easy:e -> a_add_assertions:w;
 	q_make_collaboration_easy:e -> a_build_and_smoke_tests:w;
 	q_make_collaboration_easy:e -> a_choose_primary_communication_channel:w;
 	q_make_collaboration_easy:e -> a_commit_checklist:w;
+	q_make_collaboration_easy:e -> a_consistent_project_organization:w;
 	q_make_collaboration_easy:e -> a_foster_welcoming_environment:w;
 	q_make_collaboration_easy:e -> a_get_orcid:w;
-	q_make_collaboration_easy:e -> a_use_collaborative_commenting:w;
 	q_make_collaboration_easy:e -> a_master_manuscript_online:w;
 	q_make_collaboration_easy:e -> a_project_todo_list:w;
 	q_make_collaboration_easy:e -> a_record_publishing_steps:w;
+	q_make_collaboration_easy:e -> a_results_repeatable;
+	q_make_collaboration_easy:e -> a_set_up_development:w;
 	q_make_collaboration_easy:e -> a_set_up_development:w;
 	q_make_collaboration_easy:e -> a_specify_citation:w;
 	q_make_collaboration_easy:e -> a_specify_license:w;
+	q_make_collaboration_easy:e -> a_use_collaborative_commenting:w;
 	q_make_data_findable_usable:e -> a_clean_up_data:w;
 	q_make_data_findable_usable:e -> a_data_doi:w;
 	q_make_data_findable_usable:e -> a_dont_duplicate_large_data:w;
@@ -271,14 +275,13 @@ digraph scb {
 	q_results_correct:e -> a_build_and_smoke_tests:w;
 	q_results_correct:e -> a_choose_visualization:w;
 	q_results_correct:e -> a_code_reviews:w;
+	q_results_correct:e -> a_consistent_project_organization:w;
 	q_results_correct:e -> a_debugging:w;
+	q_results_correct:e -> a_record_analysis_steps_textually:w;
+	q_results_correct:e -> a_record_data_provenance:w;
 	q_results_correct:e -> a_run_precommit_checks:w;
 	q_results_correct:e -> a_write_readable_software:w;
 	q_results_correct:e -> a_write_unit_tests:w;
-	q_results_reproducible:e -> a_consistent_project_organization:w;
-	q_results_reproducible:e -> a_record_analysis_steps_textually:w;
-	q_results_reproducible:e -> a_record_data_provenance:w;
-	q_results_reproducible:e -> a_set_up_development:w;
 
 	// ----------------------------------------
 	// Answers to topics.
@@ -347,6 +350,10 @@ digraph scb {
 	a_regular_spreadsheet_layout:e -> t_formatting_spreadsheets:w;
 	a_remove_unused_code:e -> t_coverage:w;
 	a_represent_each_fact_once:e -> t_data_hygiene:w;
+	a_results_repeatable:e -> t_reproducibility:w;
+	a_results_repeatable:e -> t_setting_up_for_development:w;
+	a_results_repeatable:e -> t_using_make:w;
+	a_results_repeatable:e -> t_writing_shell_scripts:w;
 	a_reuse_libraries:e -> t_finding_software:w;
 	a_reuse_libraries:e -> t_using_libraries:w;
 	a_run_precommit_checks:e -> t_continuous_integration:w;
