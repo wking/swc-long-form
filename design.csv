@@ -1,0 +1,535 @@
+type,ident,value
+node,q_avoid_losing_work,"How can I avoid losing work?"
+node,q_find_use_others_data,"How can I find and use other people's data?"
+node,q_find_use_others_software,"How can I find and use other people's software?"
+node,q_improve_productivity,"How can I be more productive?"
+node,q_make_collaboration_easy,"How can I make it easy for people to collaborate with me?"
+node,q_make_data_findable_usable,"How can I make it easy for people to find and use my data?"
+node,q_make_data_usable_by_programs,"How can I make it easy for programs to use my data?"
+node,q_make_software_findable_usable,"How can I make it easy for people to find and use my software?"
+node,q_results_correct,"How can I tell if my results are correct?"
+node,a_add_human_work_to_repo,"Put everything created by people into version control."
+node,a_atomic_values,"Make every value atomic."
+node,a_automate_tasks,"Automate repetitive tasks."
+node,a_avoid_duplication,"Avoid duplicating functionality within modules."
+node,a_build_and_smoke_tests,"Provide simple re-runnable end-to-end test cases."
+node,a_build_tools,"Build tools."
+node,a_choose_primary_communication_channel,"Choose a primary communication channel."
+node,a_choose_visualization,"Choose an appropriate visualization."
+node,a_clean_up_data,"Clean up data."
+node,a_code_reviews,"Do code reviews."
+node,a_commit_checklist,"Maintain a checklist of things to do before sharing a change."
+node,a_consistent_project_organization,"Organize the project consistently."
+node,a_data_doi,"Submit data to a reputable DOI issuer."
+node,a_debugging,"Debug programs."
+node,a_defensive_programming,"Practice defensive programming."
+node,a_document_function,"Begin programs with explanatory comments."
+node,a_dont_duplicate_code,"Don't duplicate code."
+node,a_dont_duplicate_large_data,"Don't duplicate large data."
+node,a_explicit_requirements,"Make requirements/dependencies explicit."
+node,a_foster_welcoming_environment,"Foster a welcoming environment."
+node,a_get_orcid,"Get an ORCID."
+node,a_give_code_meaningful_names,"Give values, functions, and classes meaningful names."
+node,a_good_commit_comments,"Write good commit comments."
+node,a_have_computer_repeat_things,"Have the computer repeat things."
+node,a_include_readme,"Include a README file explaining project scope."
+node,a_isolate_dependencies,"Isolate project dependencies."
+node,a_keys_for_records,"Give every record a unique key."
+node,a_master_manuscript_online,"Keep the master copy of every manuscript on the web."
+node,a_meaningful_path_names,"Use meaningful path names."
+node,a_normalize_data,"Normalize data."
+node,a_open_text_formats,"Prefer open text formats to proprietary non-text formats."
+node,a_profile_performance,"Find performance bottlenecks."
+node,a_project_todo_list,"Maintain a to-do list for each project."
+node,a_read_error_messages,"Read error messages.
+node,a_record_analysis_steps_textually,"Represent every analysis step textually."
+node,a_record_data_provenance,"Record provenance in data."
+node,a_record_publishing_steps,"Record publishing steps like analysis steps."
+node,a_regular_spreadsheet_layout,"Use regular layout for spreadsheets."
+node,a_remove_unused_code,"Remove unused code."
+node,a_represent_each_fact_once,"Represent each fact once."
+node,a_results_repeatable,"Make results repeatable."
+node,a_reuse_libraries,"Re-use libraries rather than writing equivalents."
+node,a_run_precommit_checks,"Run tests automatically before each commit."
+node,a_search_answer_sites,"Search question-and-answer sites."
+node,a_search_repositories,"Search data and software repositories."
+node,a_separate_models_from_views,"Separate models from views."
+node,a_set_up_development,"Make it easy to set up a development environment."
+node,a_software_doi,"Submit software to a reputable DOI issuer."
+node,a_sortable_matchable_path_names,"Use path names that are easy to sort and to match."
+node,a_specify_citation,"Make the preferred citation for projects explicit."
+node,a_specify_license,"Make the project's license explicit."
+node,a_store_raw_data,"Store raw data exactly as it arrived."
+node,a_store_work_remote_repo,"Store work in a remotely-hosted version control repository."
+node,a_treat_metadata_like_data,"Treat metadata like data."
+node,a_tune_performance,"Tune performance."
+node,a_use_collaborative_commenting,"Use online collaborative commenting."
+node,a_use_config_files,"Use configuration files and conditionals rather than commenting."
+node,a_use_dictionaries,"Use dictionaries."
+node,a_use_functions,"Break programs into short, self-contained functions."
+node,a_use_matchable_text,"Use text values that are easy to match with regular expressions."
+node,a_use_more_hardware,"Use more hardware."
+node,a_use_open_license,"Use an open license."
+node,a_use_package_manager,"Use a package manager."
+node,a_use_relational_database,"Store data in a relational database."
+node,a_write_readable_software,"Write readable software."
+node,a_write_unit_tests,"Write unit tests to specify and check behavior."
+node,m_cloud,"Cloud Computing"
+node,m_code_review,"Code Review"
+node,m_collaboration,"Collaboration"
+node,m_continuous_integration,"Continuous Integration"
+node,m_data_management,"Data Management"
+node,m_database,"Relational Databases"
+node,m_debugging,"Debugging"
+node,m_git,"Git"
+node,m_install_config,"Installing and Configuring Software"
+node,m_make,"Make"
+node,m_openrefine,"OpenRefine"
+node,m_performance,"Profiling and Tuning Performance"
+node,m_programming_style,"Programming Style"
+node,m_project_organization,"Organizing Projects"
+node,m_publishing,"21st Century Publishing"
+node,m_python_1,"Python (Scripting)"
+node,m_python_2,"Python (Functions)"
+node,m_python_3,"Python (Data Structures)"
+node,m_regular_expressions,"Regular Expressions"
+node,m_search,"Searching"
+node,m_spreadsheets,"Spreadsheets"
+node,m_testing,"Testing"
+node,m_unix,"Unix Shell"
+node,m_visualization,"Visualization"
+node,t_add_to_repository,"Adding Files to a Repository"
+node,t_aggregating_data,"Aggregating Data"
+node,t_barriers_to_participation,"Barriers to Participation"
+node,t_blogging,"Publishing a Blog"
+node,t_boilerplate,"Project Boilerplate"
+node,t_boolean_operators,"Boolean Operators"
+node,t_call_stack,"Understanding The Call Stack"
+node,t_choosing_good_path_names,"Choosing Good Path Names"
+node,t_choosing_repository_host,"Where to Host a Repository"
+node,t_choosing_visualization,"Choosing a Good Visualization"
+node,t_code_of_conduct,"Creating a Code of Conduct"
+node,t_code_reviews,"Doing Code Reviews"
+node,t_commit_checklist,"Creating a Commit Checklist"
+node,t_computer_architecture,"Computer Architecture"
+node,t_continuous_integration,"Continuous Integration"
+node,t_coverage,"Coverage Analysis"
+node,t_creating_database,"Creating a Database"
+node,t_creating_integrity_tests,"Creating Integrity Tests"
+node,t_creating_repository,"Creating a Repository"
+node,t_data_design,"Data Design"
+node,t_data_hygiene,"Data Hygiene"
+node,t_data_types,"Basic Types and Conversion"
+node,t_defensive_programming,"Defensive Programming"
+node,t_documenting_requirements,"Documenting Software Requirements"
+node,t_environment_variables,"Environment Variables"
+node,t_filename_extensions,"Filename Extensions"
+node,t_filesystem_layout,"How the Filesystem is Laid Out"
+node,t_filtering_data,"Filtering Data"
+node,t_finding_files,"Finding Files"
+node,t_finding_software,"Finding Software"
+node,t_formatting_spreadsheets,"Formatting Spreadsheets"
+node,t_getting_doi,"Using DOIs"
+node,t_good_commit_comments,"Writing Good Commit Comments"
+node,t_handling_missing_data,"Handling Missing Data"
+node,t_identify_starting_points,"Identify Starting Points"
+node,t_ignoring_files,"Ignoring Files"
+node,t_installing_software,"Installing Software"
+node,t_introducing_openrefine,"Introducing OpenRefine"
+node,t_introducing_relational_databases,"Introducing Relational Databases"
+node,t_introducing_version_control,"Introducing Version Control"
+node,t_issue_tracking,"Issue Tracking"
+node,t_joining_data,"Combining Data Using Join"
+node,t_logging,"Logging Program Execution"
+node,t_managing_files,"Creating, Deleting, and Managing Files"
+node,t_merging_changes,"Merging Changes"
+node,t_metadata,"Storing Metadata"
+node,t_models_vs_views,"Models vs. Views"
+node,t_navigating_file_system,"Navigating the File System"
+node,t_nobles_rules,"Noble's Rules for Organizing Projects"
+node,t_open_license,"Open Licenses"
+node,t_pipes_filters,"Pipes and Filters"
+node,t_plotting,"Plotting"
+node,t_profiling,"Profiling Performance"
+node,t_program_configuration,"Configuring Programs"
+node,t_programming_databases,"Programming Databases"
+node,t_python_conditionals,"Conditional Expressions"
+node,t_python_dictionaries,"Python Dictionaries"
+node,t_python_lists,"Lists in Python"
+node,t_python_loops,"Loops in Python"
+node,t_read_csv,"Reading CSV Files"
+node,t_reading_error_messages,"Reading Error Messages"
+node,t_recording_history,"Recording History"
+node,t_reproducibility,"Reproducibility and All That"
+node,t_reviewing_version_history,"Reviewing Version History"
+node,t_selecting_data,"Selecting Data"
+node,t_setting_up_for_development,"Setting Up for Development"
+node,t_ssh,"Connecting to Remote Computers with SSH"
+node,t_taschuks_rules,"Taschuk's Rules for Project Dependencies"
+node,t_task_farming,"Task Farming"
+node,t_trace_execution,"Tracing Program Execution"
+node,t_tracking_provenance,"Tracking Provenance"
+node,t_update_data,"Updating Data"
+node,t_update_repository,"Updating a Repository"
+node,t_use_package_manager,"Using a Package Manager"
+node,t_using_branches,"Using Branches"
+node,t_using_editor,"Using a Plain Text Editor"
+node,t_using_hypothesis,"Using Hypothes.is"
+node,t_using_libraries,"Using Libraries"
+node,t_using_make,"Using Make"
+node,t_using_numpy,"Using NumPy"
+node,t_using_orcid,"Using ORCIDs"
+node,t_using_pandas,"Using Pandas"
+node,t_using_regular_expressions,"Using Regular Expressions"
+node,t_using_web_authoring,"Using Web-based Authoring Tools"
+node,t_variable_scope,"Variable Scope"
+node,t_variables_assignment,"Variables and Assignment"
+node,t_what_not_to_store,"What Not to Put in Version Control"
+node,t_python_functions,"Writing Functions"
+node,t_writing_programs,"Writing Command-Line Programs"
+node,t_writing_shell_loops,"Writing Loops in the Shell"
+node,t_writing_shell_scripts,"Writing Shell Scripts"
+node,t_writing_unit_tests,"Writing Unit Tests"
+link,q_avoid_losing_work,a_add_human_work_to_repo
+link,q_avoid_losing_work,a_good_commit_comments
+link,q_avoid_losing_work,a_open_text_formats
+link,q_avoid_losing_work,a_store_work_remote_repo
+link,q_find_use_others_data,a_reuse_libraries
+link,q_find_use_others_data,a_search_repositories
+link,q_find_use_others_software,a_code_reviews
+link,q_find_use_others_software,a_reuse_libraries
+link,q_find_use_others_software,a_search_answer_sites
+link,q_find_use_others_software,a_use_package_manager
+link,q_improve_productivity,a_automate_tasks
+link,q_improve_productivity,a_build_tools
+link,q_improve_productivity,a_have_computer_repeat_things
+link,q_improve_productivity,a_profile_performance
+link,q_improve_productivity,a_read_error_messages
+link,q_improve_productivity,a_results_repeatable
+link,q_improve_productivity,a_tune_performance
+link,q_improve_productivity,a_use_more_hardware
+link,q_make_collaboration_easy,a_build_and_smoke_tests
+link,q_make_collaboration_easy,a_choose_primary_communication_channel
+link,q_make_collaboration_easy,a_commit_checklist
+link,q_make_collaboration_easy,a_consistent_project_organization
+link,q_make_collaboration_easy,a_defensive_programming
+link,q_make_collaboration_easy,a_foster_welcoming_environment
+link,q_make_collaboration_easy,a_get_orcid
+link,q_make_collaboration_easy,a_master_manuscript_online
+link,q_make_collaboration_easy,a_project_todo_list
+link,q_make_collaboration_easy,a_record_publishing_steps
+link,q_make_collaboration_easy,a_results_repeatable;
+link,q_make_collaboration_easy,a_set_up_development
+link,q_make_collaboration_easy,a_set_up_development
+link,q_make_collaboration_easy,a_specify_citation
+link,q_make_collaboration_easy,a_specify_license
+link,q_make_collaboration_easy,a_use_collaborative_commenting
+link,q_make_data_findable_usable,a_clean_up_data
+link,q_make_data_findable_usable,a_data_doi
+link,q_make_data_findable_usable,a_dont_duplicate_large_data
+link,q_make_data_findable_usable,a_meaningful_path_names
+link,q_make_data_findable_usable,a_normalize_data
+link,q_make_data_findable_usable,a_regular_spreadsheet_layout
+link,q_make_data_findable_usable,a_represent_each_fact_once
+link,q_make_data_findable_usable,a_separate_models_from_views
+link,q_make_data_findable_usable,a_store_raw_data
+link,q_make_data_findable_usable,a_treat_metadata_like_data
+link,q_make_data_findable_usable,a_use_open_license
+link,q_make_data_findable_usable,a_use_relational_database
+link,q_make_data_usable_by_programs,a_atomic_values
+link,q_make_data_usable_by_programs,a_avoid_duplication
+link,q_make_data_usable_by_programs,a_keys_for_records
+link,q_make_data_usable_by_programs,a_sortable_matchable_path_names
+link,q_make_data_usable_by_programs,a_treat_metadata_like_data
+link,q_make_data_usable_by_programs,a_use_matchable_text
+link,q_make_software_findable_usable,a_document_function
+link,q_make_software_findable_usable,a_dont_duplicate_code
+link,q_make_software_findable_usable,a_explicit_requirements
+link,q_make_software_findable_usable,a_give_code_meaningful_names
+link,q_make_software_findable_usable,a_include_readme
+link,q_make_software_findable_usable,a_isolate_dependencies
+link,q_make_software_findable_usable,a_remove_unused_code
+link,q_make_software_findable_usable,a_reuse_libraries
+link,q_make_software_findable_usable,a_software_doi
+link,q_make_software_findable_usable,a_store_work_remote_repo
+link,q_make_software_findable_usable,a_use_config_files
+link,q_make_software_findable_usable,a_use_dictionaries
+link,q_make_software_findable_usable,a_use_functions
+link,q_make_software_findable_usable,a_use_open_license
+link,q_results_correct,a_build_and_smoke_tests
+link,q_results_correct,a_choose_visualization
+link,q_results_correct,a_code_reviews
+link,q_results_correct,a_consistent_project_organization
+link,q_results_correct,a_debugging
+link,q_results_correct,a_defensive_programming
+link,q_results_correct,a_record_analysis_steps_textually
+link,q_results_correct,a_record_data_provenance
+link,q_results_correct,a_run_precommit_checks
+link,q_results_correct,a_write_readable_software
+link,q_results_correct,a_write_unit_tests
+link,a_add_human_work_to_repo,m_git
+link,a_atomic_values,m_data_management
+link,a_automate_tasks,m_unix
+link,a_avoid_duplication,m_programming_style
+link,a_build_and_smoke_tests,m_install_config
+link,a_build_and_smoke_tests,m_testing
+link,a_build_tools,m_python_1
+link,a_build_tools,m_unix
+link,a_choose_primary_communication_channel,m_collaboration
+link,a_choose_visualization,m_visualization
+link,a_clean_up_data,m_data_management
+link,a_clean_up_data,m_openrefine
+link,a_code_reviews,m_code_review
+link,a_commit_checklist,m_collaboration
+link,a_commit_checklist,m_project_organization
+link,a_consistent_project_organization,m_project_organization
+link,a_data_doi,m_collaboration
+link,a_data_doi,m_data_management
+link,a_debugging,m_debugging
+link,a_defensive_programming,m_programming_style
+link,a_document_function,m_programming_style
+link,a_dont_duplicate_code,m_programming_style
+link,a_dont_duplicate_large_data,m_data_management
+link,a_explicit_requirements,m_project_organization
+link,a_foster_welcoming_environment,m_collaboration
+link,a_get_orcid,m_collaboration
+link,a_get_orcid,m_publishing
+link,a_give_code_meaningful_names,m_programming_style
+link,a_good_commit_comments,m_git
+link,a_have_computer_repeat_things,m_python_1
+link,a_have_computer_repeat_things,m_unix
+link,a_include_readme,m_project_organization
+link,a_isolate_dependencies,m_programming_style
+link,a_keys_for_records,m_data_management
+link,a_master_manuscript_online,m_collaboration
+link,a_master_manuscript_online,m_publishing
+link,a_meaningful_path_names,m_data_management
+link,a_meaningful_path_names,m_project_organization
+link,a_normalize_data,m_data_management
+link,a_open_text_formats,m_collaboration
+link,a_open_text_formats,m_data_management
+link,a_profile_performance,m_performance
+link,a_profile_performance,m_performance
+link,a_project_todo_list,m_collaboration
+link,a_project_todo_list,m_project_organization
+link,a_read_error_messages,m_python_1
+link,a_read_error_messages,m_search
+link,a_record_analysis_steps_textually,m_make
+link,a_record_analysis_steps_textually,m_unix
+link,a_record_data_provenance,m_data_management
+link,a_record_publishing_steps,m_make
+link,a_record_publishing_steps,m_publishing
+link,a_record_publishing_steps,m_unix
+link,a_regular_spreadsheet_layout,m_data_management
+link,a_regular_spreadsheet_layout,m_spreadsheets
+link,a_remove_unused_code,m_programming_style
+link,a_represent_each_fact_once,m_data_management
+link,a_represent_each_fact_once,m_programming_style
+link,a_results_repeatable,m_collaboration
+link,a_results_repeatable,m_make
+link,a_results_repeatable,m_unix
+link,a_reuse_libraries,m_python_1
+link,a_run_precommit_checks,m_continuous_integration
+link,a_search_answer_sites,m_search
+link,a_search_repositories,m_search
+link,a_separate_models_from_views,m_data_management
+link,a_set_up_development,m_project_organization
+link,a_software_doi,m_collaboration
+link,a_software_doi,m_publishing
+link,a_sortable_matchable_path_names,m_data_management
+link,a_sortable_matchable_path_names,m_project_organization
+link,a_sortable_matchable_path_names,m_unix
+link,a_specify_citation,m_project_organization
+link,a_specify_citation,m_publishing
+link,a_specify_license,m_collaboration
+link,a_specify_license,m_project_organization
+link,a_store_raw_data,m_data_management
+link,a_store_work_remote_repo,m_collaboration
+link,a_store_work_remote_repo,m_git
+link,a_store_work_remote_repo,m_project_organization
+link,a_treat_metadata_like_data,m_data_management
+link,a_tune_performance,m_performance
+link,a_use_collaborative_commenting,m_collaboration
+link,a_use_config_files,m_install_config
+link,a_use_config_files,m_programming_style
+link,a_use_dictionaries,m_python_3
+link,a_use_functions,m_python_2
+link,a_use_matchable_text,m_data_management
+link,a_use_matchable_text,m_regular_expressions
+link,a_use_more_hardware,m_cloud
+link,a_use_open_license,m_collaboration
+link,a_use_open_license,m_project_organization
+link,a_use_package_manager,m_install_config
+link,a_use_relational_database,m_database
+link,a_write_readable_software,m_code_review
+link,a_write_readable_software,m_programming_style
+link,a_write_unit_tests,m_testing
+link,m_cloud,t_ssh
+link,m_cloud,t_task_farming
+link,m_code_review,t_code_reviews
+link,m_collaboration,t_barriers_to_participation
+link,m_collaboration,t_code_of_conduct
+link,m_collaboration,t_identify_starting_points
+link,m_continuous_integration,t_commit_checklist
+link,m_continuous_integration,t_continuous_integration
+link,m_data_management,t_data_design
+link,m_data_management,t_data_hygiene
+link,m_data_management,t_metadata
+link,m_data_management,t_models_vs_views
+link,m_data_management,t_tracking_provenance
+link,m_database,t_aggregating_data
+link,m_database,t_boolean_operators
+link,m_database,t_filtering_data
+link,m_database,t_handling_missing_data
+link,m_database,t_introducing_relational_databases
+link,m_database,t_joining_data
+link,m_database,t_programming_databases
+link,m_database,t_selecting_data
+link,m_database,t_update_data
+link,m_debugging,t_logging
+link,m_debugging,t_trace_execution
+link,m_git,t_add_to_repository
+link,m_git,t_choosing_repository_host
+link,m_git,t_good_commit_comments
+link,m_git,t_ignoring_files
+link,m_git,t_introducing_version_control
+link,m_git,t_merging_changes
+link,m_git,t_reviewing_version_history
+link,m_git,t_update_repository
+link,m_git,t_using_branches
+link,m_git,t_what_not_to_store
+link,m_install_config,t_environment_variables
+link,m_install_config,t_filesystem_layout
+link,m_install_config,t_installing_software
+link,m_install_config,t_program_configuration
+link,m_install_config,t_use_package_manager
+link,m_make,t_reproducibility
+link,m_make,t_using_make
+link,m_openrefine,t_data_hygiene
+link,m_openrefine,t_introducing_openrefine
+link,m_performance,t_computer_architecture
+link,m_performance,t_profiling
+link,m_programming_style,t_defensive_programming
+link,m_programming_style,t_python_functions
+link,m_project_organization,t_boilerplate
+link,m_project_organization,t_choosing_good_path_names
+link,m_project_organization,t_documenting_requirements
+link,m_project_organization,t_issue_tracking
+link,m_project_organization,t_nobles_rules
+link,m_project_organization,t_setting_up_for_development
+link,m_publishing,t_blogging
+link,m_publishing,t_getting_doi
+link,m_publishing,t_open_license
+link,m_publishing,t_using_hypothesis
+link,m_publishing,t_using_orcid
+link,m_publishing,t_using_web_authoring
+link,m_python_1,t_data_types
+link,m_python_1,t_read_csv
+link,m_python_1,t_reading_error_messages
+link,m_python_1,t_using_libraries
+link,m_python_1,t_using_pandas
+link,m_python_1,t_variables_assignment
+link,m_python_2,t_python_lists
+link,m_python_2,t_python_loops
+link,m_python_2,t_variable_scope
+link,m_python_2,t_python_functions
+link,m_python_2,t_writing_programs
+link,m_python_3,t_python_dictionaries
+link,m_python_3,t_using_numpy
+link,m_regular_expressions,t_using_regular_expressions
+link,m_search,t_boolean_operators
+link,m_search,t_filtering_data
+link,m_search,t_finding_software
+link,m_search,t_using_regular_expressions
+link,m_spreadsheets,t_formatting_spreadsheets
+link,m_testing,t_coverage
+link,m_testing,t_creating_integrity_tests
+link,m_testing,t_writing_unit_tests
+link,m_unix,t_filesystem_layout
+link,m_unix,t_finding_files
+link,m_unix,t_managing_files
+link,m_unix,t_navigating_file_system
+link,m_unix,t_pipes_filters
+link,m_unix,t_recording_history
+link,m_unix,t_using_editor
+link,m_unix,t_writing_shell_scripts
+link,m_visualization,t_choosing_visualization
+link,m_visualization,t_plotting
+link,t_add_to_repository,t_creating_repository
+link,t_aggregating_data,t_handling_missing_data
+link,t_blogging,t_using_web_authoring
+link,t_boilerplate,t_using_orcid
+link,t_call_stack,t_variable_scope
+link,t_choosing_good_path_names,t_filename_extensions
+link,t_choosing_good_path_names,t_finding_files
+link,t_choosing_repository_host,t_introducing_version_control
+link,t_choosing_visualization,t_plotting
+link,t_code_of_conduct,t_barriers_to_participation
+link,t_code_reviews,t_merging_changes
+link,t_code_reviews,t_reviewing_version_history
+link,t_code_reviews,t_using_branches
+link,t_computer_architecture,t_data_types
+link,t_continuous_integration,t_commit_checklist
+link,t_creating_database,t_joining_data
+link,t_creating_repository,t_introducing_version_control
+link,t_data_design,t_joining_data
+link,t_data_hygiene,t_data_design
+link,t_data_types,t_variables_assignment
+link,t_filtering_data,t_introducing_relational_databases
+link,t_finding_files,t_filesystem_layout
+link,t_good_commit_comments,t_add_to_repository
+link,t_handling_missing_data,t_selecting_data
+link,t_identify_starting_points,t_issue_tracking
+link,t_ignoring_files,t_add_to_repository
+link,t_installing_software,t_environment_variables
+link,t_introducing_openrefine,t_formatting_spreadsheets
+link,t_introducing_openrefine,t_using_regular_expressions
+link,t_joining_data,t_handling_missing_data
+link,t_managing_files,t_using_editor
+link,t_open_license,t_boilerplate
+link,t_plotting,t_using_libraries
+link,t_plotting,t_using_pandas
+link,t_profiling,t_computer_architecture
+link,t_program_configuration,t_boolean_operators
+link,t_program_configuration,t_environment_variables
+link,t_program_configuration,t_ignoring_files
+link,t_programming_databases,t_selecting_data
+link,t_python_conditionals,t_boolean_operators
+link,t_python_loops,t_python_lists
+link,t_read_csv,t_using_pandas
+link,t_reproducibility,t_documenting_requirements
+link,t_reproducibility,t_metadata
+link,t_reproducibility,t_program_configuration
+link,t_reproducibility,t_tracking_provenance
+link,t_selecting_data,t_introducing_relational_databases
+link,t_taschuks_rules,t_environment_variables
+link,t_taschuks_rules,t_program_configuration
+link,t_task_farming,t_computer_architecture
+link,t_task_farming,t_writing_shell_loops
+link,t_trace_execution,t_call_stack
+link,t_trace_execution,t_logging
+link,t_trace_execution,t_variables_assignment
+link,t_tracking_provenance,t_recording_history
+link,t_update_data,t_selecting_data
+link,t_update_repository,t_add_to_repository
+link,t_use_package_manager,t_filesystem_layout
+link,t_use_package_manager,t_installing_software
+link,t_using_libraries,t_variables_assignment
+link,t_using_make,t_writing_shell_scripts
+link,t_using_numpy,t_data_types
+link,t_using_numpy,t_using_libraries
+link,t_using_pandas,t_data_types
+link,t_using_pandas,t_using_libraries
+link,t_variable_scope,t_variables_assignment
+link,t_python_functions,t_python_conditionals
+link,t_python_functions,t_variable_scope
+link,t_writing_programs,t_using_libraries
+link,t_writing_programs,t_using_numpy
+link,t_writing_programs,t_using_pandas
+link,t_writing_programs,t_python_functions
+link,t_writing_shell_scripts,t_managing_files
+link,t_writing_shell_scripts,t_navigating_file_system
+link,t_writing_shell_scripts,t_pipes_filters
+link,t_writing_shell_scripts,t_using_editor
+link,t_writing_unit_tests,t_defensive_programming
+link,t_writing_unit_tests,t_python_functions
