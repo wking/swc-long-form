@@ -268,7 +268,6 @@ digraph scb {
 	q_make_collaboration_easy:e -> a_record_publishing_steps:w;
 	q_make_collaboration_easy:e -> a_results_repeatable;
 	q_make_collaboration_easy:e -> a_set_up_development:w;
-	q_make_collaboration_easy:e -> a_set_up_development:w;
 	q_make_collaboration_easy:e -> a_specify_citation:w;
 	q_make_collaboration_easy:e -> a_specify_license:w;
 	q_make_collaboration_easy:e -> a_use_collaborative_commenting:w;
@@ -362,7 +361,6 @@ digraph scb {
 	a_open_text_formats:e -> m_collaboration:w;
 	a_open_text_formats:e -> m_data_management:w;
 	a_profile_performance:e -> m_performance:w;
-	a_profile_performance:e -> m_performance:w;
 	a_project_todo_list:e -> m_collaboration:w;
 	a_project_todo_list:e -> m_project_organization:w;
 	a_read_error_messages:e -> m_python_1:w;
@@ -448,6 +446,7 @@ digraph scb {
 	m_debugging:e -> t_trace_execution:w;
 	m_git:e -> t_add_to_repository:w;
 	m_git:e -> t_choosing_repository_host:w;
+	m_git:e -> t_creating_repository:w;
 	m_git:e -> t_good_commit_comments:w;
 	m_git:e -> t_ignoring_files:w;
 	m_git:e -> t_introducing_version_control:w;
@@ -475,6 +474,7 @@ digraph scb {
 	m_project_organization:e -> t_issue_tracking:w;
 	m_project_organization:e -> t_nobles_rules:w;
 	m_project_organization:e -> t_setting_up_for_development:w;
+	m_project_organization:e -> t_taschuks_rules:w;
 	m_publishing:e -> t_blogging:w;
 	m_publishing:e -> t_getting_doi:w;
 	m_publishing:e -> t_open_license:w;
@@ -487,6 +487,8 @@ digraph scb {
 	m_python_1:e -> t_using_libraries:w;
 	m_python_1:e -> t_using_pandas:w;
 	m_python_1:e -> t_variables_assignment:w;
+	m_python_2:e -> t_call_stack:w;
+	m_python_2:e -> t_python_conditionals:w;
 	m_python_2:e -> t_python_lists:w;
 	m_python_2:e -> t_python_loops:w;
 	m_python_2:e -> t_variable_scope:w;
@@ -503,6 +505,7 @@ digraph scb {
 	m_testing:e -> t_coverage:w;
 	m_testing:e -> t_creating_integrity_tests:w;
 	m_testing:e -> t_writing_unit_tests:w;
+	m_unix:e -> t_filename_extensions:w;
 	m_unix:e -> t_filesystem_layout:w;
 	m_unix:e -> t_finding_files:w;
 	m_unix:e -> t_managing_files:w;
@@ -510,6 +513,7 @@ digraph scb {
 	m_unix:e -> t_pipes_filters:w;
 	m_unix:e -> t_recording_history:w;
 	m_unix:e -> t_using_editor:w;
+	m_unix:e -> t_writing_shell_loops:w;
 	m_unix:e -> t_writing_shell_scripts:w;
 	m_visualization:e -> t_choosing_visualization:w;
 	m_visualization:e -> t_plotting:w;
