@@ -1371,7 +1371,7 @@
 <polygon fill="black" stroke="black" points="1031.06,-3666.27 1041.14,-3663 1031.22,-3659.28 1031.06,-3666.27"/>
 </g>
 <!-- t_ssh -->
-<g id="node166" class="node"><title>t_ssh</title>
+<g id="node167" class="node"><title>t_ssh</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1666.56,-1440 1437.57,-1440 1437.57,-1404 1666.56,-1404 1666.56,-1440"/>
 <text text-anchor="middle" x="1552.07" y="-1418.4" font-family="Times,serif" font-size="12.00">Connecting to Remote Computers with SSH</text>
 </g>
@@ -1381,7 +1381,7 @@
 <polygon fill="black" stroke="black" points="1427.57,-1425.5 1437.57,-1422 1427.57,-1418.5 1427.57,-1425.5"/>
 </g>
 <!-- t_task_farming -->
-<g id="node168" class="node"><title>t_task_farming</title>
+<g id="node169" class="node"><title>t_task_farming</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1593.22,-1602 1510.91,-1602 1510.91,-1566 1593.22,-1566 1593.22,-1602"/>
 <text text-anchor="middle" x="1552.07" y="-1580.4" font-family="Times,serif" font-size="12.00">Task Farming</text>
 </g>
@@ -1491,7 +1491,7 @@
 <polygon fill="black" stroke="black" points="1490.14,-723.693 1500.07,-720 1490,-716.694 1490.14,-723.693"/>
 </g>
 <!-- t_tracking_provenance -->
-<g id="node170" class="node"><title>t_tracking_provenance</title>
+<g id="node171" class="node"><title>t_tracking_provenance</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1610.94,-1062 1493.19,-1062 1493.19,-1026 1610.94,-1026 1610.94,-1062"/>
 <text text-anchor="middle" x="1552.07" y="-1040.4" font-family="Times,serif" font-size="12.00">Tracking Provenance</text>
 </g>
@@ -1571,7 +1571,7 @@
 <polygon fill="black" stroke="black" points="1474.03,-453.392 1484.07,-450 1474.1,-446.393 1474.03,-453.392"/>
 </g>
 <!-- t_selecting_data -->
-<g id="node164" class="node"><title>t_selecting_data</title>
+<g id="node165" class="node"><title>t_selecting_data</title>
 <polygon fill="none" stroke="goldenrod" points="1595.37,-144 1508.76,-144 1508.76,-108 1595.37,-108 1595.37,-144"/>
 <text text-anchor="middle" x="1552.07" y="-122.4" font-family="Times,serif" font-size="12.00">Selecting Data</text>
 </g>
@@ -1581,7 +1581,7 @@
 <polygon fill="black" stroke="black" points="1498.14,-129.708 1508.07,-126 1497.99,-122.71 1498.14,-129.708"/>
 </g>
 <!-- t_update_data -->
-<g id="node171" class="node"><title>t_update_data</title>
+<g id="node172" class="node"><title>t_update_data</title>
 <polygon fill="none" stroke="goldenrod" points="1595.38,-414 1508.75,-414 1508.75,-378 1595.38,-378 1595.38,-414"/>
 <text text-anchor="middle" x="1552.07" y="-392.4" font-family="Times,serif" font-size="12.00">Updating Data</text>
 </g>
@@ -1601,7 +1601,7 @@
 <polygon fill="black" stroke="black" points="1465.15,-2343.73 1475.07,-2340 1464.99,-2336.73 1465.15,-2343.73"/>
 </g>
 <!-- t_trace_execution -->
-<g id="node169" class="node"><title>t_trace_execution</title>
+<g id="node170" class="node"><title>t_trace_execution</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1626.44,-3114 1477.69,-3114 1477.69,-3078 1626.44,-3078 1626.44,-3114"/>
 <text text-anchor="middle" x="1552.07" y="-3092.4" font-family="Times,serif" font-size="12.00">Tracing Program Execution</text>
 </g>
@@ -1681,7 +1681,7 @@
 <polygon fill="black" stroke="black" points="1490.08,-3801.53 1500.07,-3798 1490.06,-3794.53 1490.08,-3801.53"/>
 </g>
 <!-- t_reviewing_version_history -->
-<g id="node163" class="node"><title>t_reviewing_version_history</title>
+<g id="node164" class="node"><title>t_reviewing_version_history</title>
 <polygon fill="none" stroke="goldenrod" points="1625.51,-3870 1478.62,-3870 1478.62,-3834 1625.51,-3834 1625.51,-3870"/>
 <text text-anchor="middle" x="1552.07" y="-3848.4" font-family="Times,serif" font-size="12.00">Reviewing Version History</text>
 </g>
@@ -1691,7 +1691,7 @@
 <polygon fill="black" stroke="black" points="1468.05,-3855.47 1478.07,-3852 1468.08,-3848.47 1468.05,-3855.47"/>
 </g>
 <!-- t_update_repository -->
-<g id="node172" class="node"><title>t_update_repository</title>
+<g id="node173" class="node"><title>t_update_repository</title>
 <polygon fill="none" stroke="goldenrod" points="1614.22,-4410 1489.91,-4410 1489.91,-4374 1614.22,-4374 1614.22,-4410"/>
 <text text-anchor="middle" x="1552.07" y="-4388.4" font-family="Times,serif" font-size="12.00">Updating a Repository</text>
 </g>
@@ -1701,7 +1701,7 @@
 <polygon fill="black" stroke="black" points="1478.99,-4395.29 1489.07,-4392 1479.14,-4388.29 1478.99,-4395.29"/>
 </g>
 <!-- t_using_branches -->
-<g id="node174" class="node"><title>t_using_branches</title>
+<g id="node175" class="node"><title>t_using_branches</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1598.38,-3762 1505.75,-3762 1505.75,-3726 1598.38,-3726 1598.38,-3762"/>
 <text text-anchor="middle" x="1552.07" y="-3740.4" font-family="Times,serif" font-size="12.00">Using Branches</text>
 </g>
@@ -1711,7 +1711,7 @@
 <polygon fill="black" stroke="black" points="1495.09,-3747.58 1505.07,-3744 1495.04,-3740.58 1495.09,-3747.58"/>
 </g>
 <!-- t_what_not_to_store -->
-<g id="node186" class="node"><title>t_what_not_to_store</title>
+<g id="node187" class="node"><title>t_what_not_to_store</title>
 <polygon fill="none" stroke="goldenrod" points="1644.85,-4356 1459.28,-4356 1459.28,-4320 1644.85,-4320 1644.85,-4356"/>
 <text text-anchor="middle" x="1552.07" y="-4334.4" font-family="Times,serif" font-size="12.00">What Not to Put in Version Control</text>
 </g>
@@ -1761,7 +1761,7 @@
 <polygon fill="black" stroke="black" points="1479.07,-2883.5 1489.07,-2880 1479.07,-2876.5 1479.07,-2883.5"/>
 </g>
 <!-- t_use_package_manager -->
-<g id="node173" class="node"><title>t_use_package_manager</title>
+<g id="node174" class="node"><title>t_use_package_manager</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1622.69,-3222 1481.45,-3222 1481.45,-3186 1622.69,-3186 1622.69,-3222"/>
 <text text-anchor="middle" x="1552.07" y="-3200.4" font-family="Times,serif" font-size="12.00">Using a Package Manager</text>
 </g>
@@ -1771,7 +1771,7 @@
 <polygon fill="black" stroke="black" points="1469.97,-3207.22 1480.07,-3204 1470.17,-3200.22 1469.97,-3207.22"/>
 </g>
 <!-- t_reproducibility -->
-<g id="node162" class="node"><title>t_reproducibility</title>
+<g id="node163" class="node"><title>t_reproducibility</title>
 <polygon fill="none" stroke="goldenrod" points="1629.17,-2952 1474.96,-2952 1474.96,-2916 1629.17,-2916 1629.17,-2952"/>
 <text text-anchor="middle" x="1552.07" y="-2930.4" font-family="Times,serif" font-size="12.00">Reproducibility and All That</text>
 </g>
@@ -1781,7 +1781,7 @@
 <polygon fill="black" stroke="black" points="1463.99,-2937.28 1474.07,-2934 1464.14,-2930.28 1463.99,-2937.28"/>
 </g>
 <!-- t_using_make -->
-<g id="node178" class="node"><title>t_using_make</title>
+<g id="node179" class="node"><title>t_using_make</title>
 <polygon fill="none" stroke="goldenrod" points="1589.56,-2412 1514.57,-2412 1514.57,-2376 1589.56,-2376 1589.56,-2412"/>
 <text text-anchor="middle" x="1552.07" y="-2390.4" font-family="Times,serif" font-size="12.00">Using Make</text>
 </g>
@@ -1836,7 +1836,7 @@
 <polygon fill="black" stroke="black" points="1473.99,-3369.27 1484.07,-3366 1474.15,-3362.27 1473.99,-3369.27"/>
 </g>
 <!-- t_python_functions -->
-<g id="node187" class="node"><title>t_python_functions</title>
+<g id="node157" class="node"><title>t_python_functions</title>
 <polygon fill="none" stroke="goldenrod" points="1603.75,-3330 1500.38,-3330 1500.38,-3294 1603.75,-3294 1603.75,-3330"/>
 <text text-anchor="middle" x="1552.07" y="-3308.4" font-family="Times,serif" font-size="12.00">Writing Functions</text>
 </g>
@@ -1896,7 +1896,7 @@
 <polygon fill="black" stroke="black" points="1442.11,-3639.63 1452.07,-3636 1442.02,-3632.63 1442.11,-3639.63"/>
 </g>
 <!-- t_setting_up_for_development -->
-<g id="node165" class="node"><title>t_setting_up_for_development</title>
+<g id="node166" class="node"><title>t_setting_up_for_development</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1628.37,-3600 1475.76,-3600 1475.76,-3564 1628.37,-3564 1628.37,-3600"/>
 <text text-anchor="middle" x="1552.07" y="-3578.4" font-family="Times,serif" font-size="12.00">Setting Up for Development</text>
 </g>
@@ -1906,7 +1906,7 @@
 <polygon fill="black" stroke="black" points="1465.13,-3585.67 1475.07,-3582 1465.01,-3578.67 1465.13,-3585.67"/>
 </g>
 <!-- t_taschuks_rules -->
-<g id="node167" class="node"><title>t_taschuks_rules</title>
+<g id="node168" class="node"><title>t_taschuks_rules</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1660.83,-3708 1443.3,-3708 1443.3,-3672 1660.83,-3672 1660.83,-3708"/>
 <text text-anchor="middle" x="1552.07" y="-3686.4" font-family="Times,serif" font-size="12.00">Taschuk&#39;s Rules for Project Dependencies</text>
 </g>
@@ -1946,7 +1946,7 @@
 <polygon fill="black" stroke="black" points="1497.99,-4665.26 1508.07,-4662 1498.15,-4658.27 1497.99,-4665.26"/>
 </g>
 <!-- t_using_hypothesis -->
-<g id="node176" class="node"><title>t_using_hypothesis</title>
+<g id="node177" class="node"><title>t_using_hypothesis</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1604.24,-4626 1499.89,-4626 1499.89,-4590 1604.24,-4590 1604.24,-4626"/>
 <text text-anchor="middle" x="1552.07" y="-4604.4" font-family="Times,serif" font-size="12.00">Using Hypothes.is</text>
 </g>
@@ -1956,7 +1956,7 @@
 <polygon fill="black" stroke="black" points="1488.98,-4611.26 1499.07,-4608 1489.15,-4604.26 1488.98,-4611.26"/>
 </g>
 <!-- t_using_orcid -->
-<g id="node180" class="node"><title>t_using_orcid</title>
+<g id="node181" class="node"><title>t_using_orcid</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1596.74,-4248 1507.39,-4248 1507.39,-4212 1596.74,-4212 1596.74,-4248"/>
 <text text-anchor="middle" x="1552.07" y="-4226.4" font-family="Times,serif" font-size="12.00">Using ORCIDs</text>
 </g>
@@ -1966,7 +1966,7 @@
 <polygon fill="black" stroke="black" points="1496.07,-4233.5 1506.07,-4230 1496.07,-4226.5 1496.07,-4233.5"/>
 </g>
 <!-- t_using_web_authoring -->
-<g id="node183" class="node"><title>t_using_web_authoring</title>
+<g id="node184" class="node"><title>t_using_web_authoring</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1643,-4572 1461.13,-4572 1461.13,-4536 1643,-4536 1643,-4572"/>
 <text text-anchor="middle" x="1552.07" y="-4550.4" font-family="Times,serif" font-size="12.00">Using Web&#45;based Authoring Tools</text>
 </g>
@@ -1986,7 +1986,7 @@
 <polygon fill="black" stroke="black" points="1465.16,-939.751 1475.07,-936 1464.98,-932.753 1465.16,-939.751"/>
 </g>
 <!-- t_read_csv -->
-<g id="node159" class="node"><title>t_read_csv</title>
+<g id="node160" class="node"><title>t_read_csv</title>
 <polygon fill="none" stroke="goldenrod" points="1606.53,-1386 1497.6,-1386 1497.6,-1350 1606.53,-1350 1606.53,-1386"/>
 <text text-anchor="middle" x="1552.07" y="-1364.4" font-family="Times,serif" font-size="12.00">Reading CSV Files</text>
 </g>
@@ -1996,7 +1996,7 @@
 <polygon fill="black" stroke="black" points="1487.05,-1371.47 1497.07,-1368 1487.08,-1364.47 1487.05,-1371.47"/>
 </g>
 <!-- t_reading_error_messages -->
-<g id="node160" class="node"><title>t_reading_error_messages</title>
+<g id="node161" class="node"><title>t_reading_error_messages</title>
 <polygon fill="none" stroke="goldenrod" points="1619.03,-846 1485.1,-846 1485.1,-810 1619.03,-810 1619.03,-846"/>
 <text text-anchor="middle" x="1552.07" y="-824.4" font-family="Times,serif" font-size="12.00">Reading Error Messages</text>
 </g>
@@ -2006,7 +2006,7 @@
 <polygon fill="black" stroke="black" points="1474.15,-831.726 1484.07,-828 1473.99,-824.728 1474.15,-831.726"/>
 </g>
 <!-- t_using_libraries -->
-<g id="node177" class="node"><title>t_using_libraries</title>
+<g id="node178" class="node"><title>t_using_libraries</title>
 <polygon fill="none" stroke="goldenrod" points="1597.55,-1278 1506.58,-1278 1506.58,-1242 1597.55,-1242 1597.55,-1278"/>
 <text text-anchor="middle" x="1552.07" y="-1256.4" font-family="Times,serif" font-size="12.00">Using Libraries</text>
 </g>
@@ -2016,7 +2016,7 @@
 <polygon fill="black" stroke="black" points="1496.1,-1263.59 1506.07,-1260 1496.03,-1256.59 1496.1,-1263.59"/>
 </g>
 <!-- t_using_pandas -->
-<g id="node181" class="node"><title>t_using_pandas</title>
+<g id="node182" class="node"><title>t_using_pandas</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1592.73,-1332 1511.4,-1332 1511.4,-1296 1592.73,-1296 1592.73,-1332"/>
 <text text-anchor="middle" x="1552.07" y="-1310.4" font-family="Times,serif" font-size="12.00">Using Pandas</text>
 </g>
@@ -2026,7 +2026,7 @@
 <polygon fill="black" stroke="black" points="1500.08,-1317.53 1510.07,-1314 1500.05,-1310.53 1500.08,-1317.53"/>
 </g>
 <!-- t_variables_assignment -->
-<g id="node185" class="node"><title>t_variables_assignment</title>
+<g id="node186" class="node"><title>t_variables_assignment</title>
 <polygon fill="none" stroke="goldenrod" points="1622.22,-900 1481.91,-900 1481.91,-864 1622.22,-864 1622.22,-900"/>
 <text text-anchor="middle" x="1552.07" y="-878.4" font-family="Times,serif" font-size="12.00">Variables and Assignment</text>
 </g>
@@ -2055,40 +2055,40 @@
 <path fill="none" stroke="black" d="M1124.14,-2988C1320.7,-2988 1285.39,-3248.85 1474.02,-3257.77"/>
 <polygon fill="black" stroke="black" points="1473.99,-3261.27 1484.07,-3258 1474.15,-3254.27 1473.99,-3261.27"/>
 </g>
+<!-- m_python_2&#45;&gt;t_python_functions -->
+<g id="edge242" class="edge"><title>m_python_2:e&#45;&gt;t_python_functions:w</title>
+<path fill="none" stroke="black" d="M1124.14,-2988C1340.93,-2988 1280.81,-3301.95 1488.95,-3311.77"/>
+<polygon fill="black" stroke="black" points="1488.99,-3315.27 1499.07,-3312 1489.15,-3308.27 1488.99,-3315.27"/>
+</g>
 <!-- t_python_lists -->
-<g id="node157" class="node"><title>t_python_lists</title>
+<g id="node158" class="node"><title>t_python_lists</title>
 <polygon fill="none" stroke="goldenrod" points="1596.25,-2520 1507.89,-2520 1507.89,-2484 1596.25,-2484 1596.25,-2520"/>
 <text text-anchor="middle" x="1552.07" y="-2498.4" font-family="Times,serif" font-size="12.00">Lists in Python</text>
 </g>
 <!-- m_python_2&#45;&gt;t_python_lists -->
-<g id="edge242" class="edge"><title>m_python_2:e&#45;&gt;t_python_lists:w</title>
+<g id="edge243" class="edge"><title>m_python_2:e&#45;&gt;t_python_lists:w</title>
 <path fill="none" stroke="black" d="M1124.14,-2988C1395.64,-2988 1236.24,-2514.26 1496.8,-2502.23"/>
 <polygon fill="black" stroke="black" points="1497.15,-2505.73 1507.07,-2502 1496.99,-2498.73 1497.15,-2505.73"/>
 </g>
 <!-- t_python_loops -->
-<g id="node158" class="node"><title>t_python_loops</title>
+<g id="node159" class="node"><title>t_python_loops</title>
 <polygon fill="none" stroke="goldenrod" points="1599.91,-2574 1504.22,-2574 1504.22,-2538 1599.91,-2538 1599.91,-2574"/>
 <text text-anchor="middle" x="1552.07" y="-2552.4" font-family="Times,serif" font-size="12.00">Loops in Python</text>
 </g>
 <!-- m_python_2&#45;&gt;t_python_loops -->
-<g id="edge243" class="edge"><title>m_python_2:e&#45;&gt;t_python_loops:w</title>
+<g id="edge244" class="edge"><title>m_python_2:e&#45;&gt;t_python_loops:w</title>
 <path fill="none" stroke="black" d="M1124.14,-2988C1376.04,-2988 1251.2,-2567.73 1492.81,-2556.24"/>
 <polygon fill="black" stroke="black" points="1493.15,-2559.73 1503.07,-2556 1492.99,-2552.73 1493.15,-2559.73"/>
 </g>
 <!-- t_variable_scope -->
-<g id="node184" class="node"><title>t_variable_scope</title>
+<g id="node185" class="node"><title>t_variable_scope</title>
 <polygon fill="none" stroke="goldenrod" points="1596.37,-3006 1507.76,-3006 1507.76,-2970 1596.37,-2970 1596.37,-3006"/>
 <text text-anchor="middle" x="1552.07" y="-2984.4" font-family="Times,serif" font-size="12.00">Variable Scope</text>
 </g>
 <!-- m_python_2&#45;&gt;t_variable_scope -->
-<g id="edge244" class="edge"><title>m_python_2:e&#45;&gt;t_variable_scope:w</title>
+<g id="edge245" class="edge"><title>m_python_2:e&#45;&gt;t_variable_scope:w</title>
 <path fill="none" stroke="black" d="M1124.14,-2988C1290.84,-2988 1335.08,-2988 1496.75,-2988"/>
 <polygon fill="black" stroke="black" points="1497.07,-2991.5 1507.07,-2988 1497.07,-2984.5 1497.07,-2991.5"/>
-</g>
-<!-- m_python_2&#45;&gt;t_python_functions -->
-<g id="edge245" class="edge"><title>m_python_2:e&#45;&gt;t_python_functions:w</title>
-<path fill="none" stroke="black" d="M1124.14,-2988C1340.93,-2988 1280.81,-3301.95 1488.95,-3311.77"/>
-<polygon fill="black" stroke="black" points="1488.99,-3315.27 1499.07,-3312 1489.15,-3308.27 1488.99,-3315.27"/>
 </g>
 <!-- t_writing_programs -->
 <g id="node188" class="node"><title>t_writing_programs</title>
@@ -2111,7 +2111,7 @@
 <polygon fill="black" stroke="black" points="1485.02,-3531.37 1495.07,-3528 1485.11,-3524.37 1485.02,-3531.37"/>
 </g>
 <!-- t_using_numpy -->
-<g id="node179" class="node"><title>t_using_numpy</title>
+<g id="node180" class="node"><title>t_using_numpy</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1594.41,-3438 1509.72,-3438 1509.72,-3402 1594.41,-3402 1594.41,-3438"/>
 <text text-anchor="middle" x="1552.07" y="-3416.4" font-family="Times,serif" font-size="12.00">Using NumPy</text>
 </g>
@@ -2121,7 +2121,7 @@
 <polygon fill="black" stroke="black" points="1499.07,-3423.5 1509.07,-3420 1499.07,-3416.5 1499.07,-3423.5"/>
 </g>
 <!-- t_using_regular_expressions -->
-<g id="node182" class="node"><title>t_using_regular_expressions</title>
+<g id="node183" class="node"><title>t_using_regular_expressions</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1625.22,-1116 1478.91,-1116 1478.91,-1080 1625.22,-1080 1625.22,-1116"/>
 <text text-anchor="middle" x="1552.07" y="-1094.4" font-family="Times,serif" font-size="12.00">Using Regular Expressions</text>
 </g>
@@ -2251,7 +2251,7 @@
 <polygon fill="black" stroke="black" points="1493.09,-1803.56 1503.07,-1800 1493.05,-1796.56 1493.09,-1803.56"/>
 </g>
 <!-- t_recording_history -->
-<g id="node161" class="node"><title>t_recording_history</title>
+<g id="node162" class="node"><title>t_recording_history</title>
 <polygon fill="none" stroke="goldenrod" points="1604.55,-1008 1499.58,-1008 1499.58,-972 1604.55,-972 1604.55,-1008"/>
 <text text-anchor="middle" x="1552.07" y="-986.4" font-family="Times,serif" font-size="12.00">Recording History</text>
 </g>
@@ -2261,7 +2261,7 @@
 <polygon fill="black" stroke="black" points="1489.13,-993.666 1499.07,-990 1489.01,-986.667 1489.13,-993.666"/>
 </g>
 <!-- t_using_editor -->
-<g id="node175" class="node"><title>t_using_editor</title>
+<g id="node176" class="node"><title>t_using_editor</title>
 <polygon fill="honeydew" stroke="goldenrod" points="1620.67,-1710 1483.47,-1710 1483.47,-1674 1620.67,-1674 1620.67,-1710"/>
 <text text-anchor="middle" x="1552.07" y="-1688.4" font-family="Times,serif" font-size="12.00">Using a Plain Text Editor</text>
 </g>
@@ -2515,165 +2515,165 @@
 <path fill="none" stroke="black" d="M1620.07,-3258C1690.57,-3258 1730.73,-3277.22 1774.56,-3222 1857.87,-3117.05 1858.84,-914.182 1774.56,-810 1728.57,-753.137 1686.58,-772.053 1616.19,-773.867"/>
 <polygon fill="black" stroke="black" points="1616.02,-770.369 1606.07,-774 1616.11,-777.368 1616.02,-770.369"/>
 </g>
-<!-- t_python_loops&#45;&gt;t_python_lists -->
-<g id="edge310" class="edge"><title>t_python_loops:e&#45;&gt;t_python_lists:e</title>
-<path fill="none" stroke="black" d="M1606.85,-2505.54C1621.7,-2517.56 1621.37,-2556 1601.07,-2556"/>
-<polygon fill="black" stroke="black" points="1607.66,-2502.12 1597.07,-2502 1605.28,-2508.7 1607.66,-2502.12"/>
-</g>
-<!-- t_read_csv&#45;&gt;t_using_pandas -->
-<g id="edge311" class="edge"><title>t_read_csv:e&#45;&gt;t_using_pandas:e</title>
-<path fill="none" stroke="black" d="M1603.71,-1316.9C1621.66,-1328.12 1628.28,-1368 1607.07,-1368"/>
-<polygon fill="black" stroke="black" points="1604.65,-1313.53 1594.07,-1314 1602.63,-1320.23 1604.65,-1313.53"/>
-</g>
-<!-- t_reproducibility&#45;&gt;t_documenting_requirements -->
-<g id="edge312" class="edge"><title>t_reproducibility:e&#45;&gt;t_documenting_requirements:e</title>
-<path fill="none" stroke="black" d="M1630.07,-2934C1696.25,-2934 1733.81,-2950.15 1774.56,-2898 1843.52,-2809.75 1841.67,-2735.67 1774.56,-2646 1742.62,-2603.32 1712.66,-2609.06 1662.1,-2609.91"/>
-<polygon fill="black" stroke="black" points="1662.03,-2606.41 1652.07,-2610 1662.1,-2613.41 1662.03,-2606.41"/>
-</g>
-<!-- t_reproducibility&#45;&gt;t_metadata -->
-<g id="edge313" class="edge"><title>t_reproducibility:e&#45;&gt;t_metadata:e</title>
-<path fill="none" stroke="black" d="M1630.07,-2934C1696.25,-2934 1733.81,-2950.15 1774.56,-2898 1849.68,-2801.87 1851.51,-796.67 1774.56,-702 1727.38,-643.957 1684.42,-663.947 1612.42,-665.86"/>
-<polygon fill="black" stroke="black" points="1612.02,-662.365 1602.07,-666 1612.11,-669.364 1612.02,-662.365"/>
-</g>
-<!-- t_reproducibility&#45;&gt;t_program_configuration -->
-<g id="edge314" class="edge"><title>t_reproducibility:e&#45;&gt;t_program_configuration:e</title>
-<path fill="none" stroke="black" d="M1624.9,-2882.9C1643.4,-2894.12 1651.47,-2934 1630.07,-2934"/>
-<polygon fill="black" stroke="black" points="1625.65,-2879.47 1615.07,-2880 1623.67,-2886.19 1625.65,-2879.47"/>
-</g>
-<!-- t_reproducibility&#45;&gt;t_tracking_provenance -->
-<g id="edge315" class="edge"><title>t_reproducibility:e&#45;&gt;t_tracking_provenance:e</title>
-<path fill="none" stroke="black" d="M1630.07,-2934C1696.25,-2934 1733.81,-2950.15 1774.56,-2898 1898.94,-2738.83 1901.01,-1237.53 1774.56,-1080 1730.43,-1025.02 1690,-1042.14 1622.26,-1043.87"/>
-<polygon fill="black" stroke="black" points="1622.02,-1040.37 1612.07,-1044 1622.11,-1047.37 1622.02,-1040.37"/>
-</g>
-<!-- t_selecting_data&#45;&gt;t_introducing_relational_databases -->
-<g id="edge316" class="edge"><title>t_selecting_data:e&#45;&gt;t_introducing_relational_databases:e</title>
-<path fill="none" stroke="black" d="M1650.47,-75.5431C1658.58,-87.5566 1622.43,-126 1596.07,-126"/>
-<polygon fill="black" stroke="black" points="1651.66,-72.2507 1641.07,-72 1649.19,-78.8012 1651.66,-72.2507"/>
-</g>
-<!-- t_taschuks_rules&#45;&gt;t_environment_variables -->
-<g id="edge317" class="edge"><title>t_taschuks_rules:e&#45;&gt;t_environment_variables:e</title>
-<path fill="none" stroke="black" d="M1662.07,-3690C1714.56,-3690 1743.61,-3696.4 1774.56,-3654 1851.21,-3549 1855.67,-2585.6 1774.56,-2484 1731.69,-2430.3 1692.33,-2446.19 1626.43,-2447.87"/>
-<polygon fill="black" stroke="black" points="1626.02,-2444.37 1616.07,-2448 1626.11,-2451.37 1626.02,-2444.37"/>
-</g>
-<!-- t_taschuks_rules&#45;&gt;t_program_configuration -->
-<g id="edge318" class="edge"><title>t_taschuks_rules:e&#45;&gt;t_program_configuration:e</title>
-<path fill="none" stroke="black" d="M1662.07,-3690C1714.56,-3690 1743.61,-3696.4 1774.56,-3654 1871.25,-3521.54 1876.97,-3044.1 1774.56,-2916 1731.31,-2861.9 1691.63,-2878.22 1625.08,-2879.87"/>
-<polygon fill="black" stroke="black" points="1625.02,-2876.37 1615.07,-2880 1625.11,-2883.37 1625.02,-2876.37"/>
-</g>
-<!-- t_task_farming&#45;&gt;t_computer_architecture -->
-<g id="edge319" class="edge"><title>t_task_farming:e&#45;&gt;t_computer_architecture:e</title>
-<path fill="none" stroke="black" d="M1594.07,-1584C1675.87,-1584 1722.68,-1611.25 1774.56,-1548 1821.52,-1490.75 1704.29,-1477.13 1626.31,-1476.07"/>
-<polygon fill="black" stroke="black" points="1626.09,-1472.57 1616.07,-1476 1626.04,-1479.57 1626.09,-1472.57"/>
-</g>
-<!-- t_task_farming&#45;&gt;t_writing_shell_loops -->
-<g id="edge320" class="edge"><title>t_task_farming:e&#45;&gt;t_writing_shell_loops:e</title>
-<path fill="none" stroke="black" d="M1634.45,-1534.24C1642.18,-1546.97 1616.98,-1584 1594.07,-1584"/>
-<polygon fill="black" stroke="black" points="1635.62,-1530.93 1625.07,-1530 1632.74,-1537.31 1635.62,-1530.93"/>
-</g>
-<!-- t_trace_execution&#45;&gt;t_call_stack -->
-<g id="edge321" class="edge"><title>t_trace_execution:e&#45;&gt;t_call_stack:e</title>
-<path fill="none" stroke="black" d="M1642.57,-3045.88C1654.76,-3058.27 1647.25,-3096 1627.07,-3096"/>
-<polygon fill="black" stroke="black" points="1643.65,-3042.54 1633.07,-3042 1641,-3049.02 1643.65,-3042.54"/>
-</g>
-<!-- t_trace_execution&#45;&gt;t_logging -->
-<g id="edge322" class="edge"><title>t_trace_execution:e&#45;&gt;t_logging:e</title>
-<path fill="none" stroke="black" d="M1627.07,-3096C1694.54,-3096 1732.89,-3113.07 1774.56,-3060 1868.44,-2940.45 1868.25,-2495.69 1774.56,-2376 1735.67,-2326.31 1699.68,-2338.46 1639.37,-2339.88"/>
-<polygon fill="black" stroke="black" points="1639.02,-2336.38 1629.07,-2340 1639.11,-2343.38 1639.02,-2336.38"/>
-</g>
-<!-- t_trace_execution&#45;&gt;t_variables_assignment -->
-<g id="edge323" class="edge"><title>t_trace_execution:e&#45;&gt;t_variables_assignment:e</title>
-<path fill="none" stroke="black" d="M1627.07,-3096C1694.54,-3096 1732.89,-3113.07 1774.56,-3060 1848.06,-2966.41 1848.34,-1011.37 1774.56,-918 1733.83,-866.458 1696.28,-880.329 1633.38,-881.87"/>
-<polygon fill="black" stroke="black" points="1633.02,-878.375 1623.07,-882 1633.11,-885.374 1633.02,-878.375"/>
-</g>
-<!-- t_tracking_provenance&#45;&gt;t_recording_history -->
-<g id="edge324" class="edge"><title>t_tracking_provenance:e&#45;&gt;t_recording_history:e</title>
-<path fill="none" stroke="black" d="M1614.66,-993.216C1630.66,-1004.84 1632.67,-1044 1612.07,-1044"/>
-<polygon fill="black" stroke="black" points="1615.66,-989.86 1605.07,-990 1613.43,-996.497 1615.66,-989.86"/>
-</g>
-<!-- t_update_data&#45;&gt;t_selecting_data -->
-<g id="edge325" class="edge"><title>t_update_data:e&#45;&gt;t_selecting_data:e</title>
-<path fill="none" stroke="black" d="M1596.07,-396C1676.99,-396 1723.3,-422.628 1774.56,-360 1830.3,-291.901 1830.3,-230.099 1774.56,-162 1725.51,-102.063 1680.98,-123.876 1606.31,-125.862"/>
-<polygon fill="black" stroke="black" points="1606.02,-122.365 1596.07,-126 1606.11,-129.365 1606.02,-122.365"/>
-</g>
-<!-- t_update_repository&#45;&gt;t_add_to_repository -->
-<g id="edge326" class="edge"><title>t_update_repository:e&#45;&gt;t_add_to_repository:e</title>
-<path fill="none" stroke="black" d="M1615.07,-4392C1687.74,-4392 1729.18,-4412.76 1774.56,-4356 1881.96,-4221.65 1880.47,-2943.53 1774.56,-2808 1735.96,-2758.6 1700.22,-2770.49 1640.3,-2771.88"/>
-<polygon fill="black" stroke="black" points="1640.02,-2768.38 1630.07,-2772 1640.11,-2775.38 1640.02,-2768.38"/>
-</g>
-<!-- t_use_package_manager&#45;&gt;t_filesystem_layout -->
-<g id="edge327" class="edge"><title>t_use_package_manager:e&#45;&gt;t_filesystem_layout:e</title>
-<path fill="none" stroke="black" d="M1624.07,-3204C1692.84,-3204 1731.96,-3221.99 1774.56,-3168 1851.37,-3070.65 1850.33,-2150.16 1774.56,-2052 1738.07,-2004.73 1704.15,-2014.66 1647.19,-2015.89"/>
-<polygon fill="black" stroke="black" points="1647.03,-2012.39 1637.07,-2016 1647.1,-2019.39 1647.03,-2012.39"/>
-</g>
-<!-- t_use_package_manager&#45;&gt;t_installing_software -->
-<g id="edge328" class="edge"><title>t_use_package_manager:e&#45;&gt;t_installing_software:e</title>
-<path fill="none" stroke="black" d="M1616.84,-3152.75C1636.09,-3163.76 1645.79,-3204 1624.07,-3204"/>
-<polygon fill="black" stroke="black" points="1617.64,-3149.34 1607.07,-3150 1615.74,-3156.08 1617.64,-3149.34"/>
-</g>
-<!-- t_using_libraries&#45;&gt;t_variables_assignment -->
-<g id="edge329" class="edge"><title>t_using_libraries:e&#45;&gt;t_variables_assignment:e</title>
-<path fill="none" stroke="black" d="M1598.07,-1260C1678.12,-1260 1723.92,-1286.01 1774.56,-1224 1860.58,-1118.66 1858.88,-1024.71 1774.56,-918 1733.83,-866.458 1696.28,-880.329 1633.38,-881.87"/>
-<polygon fill="black" stroke="black" points="1633.02,-878.375 1623.07,-882 1633.11,-885.374 1633.02,-878.375"/>
-</g>
-<!-- t_using_make&#45;&gt;t_writing_shell_scripts -->
-<g id="edge330" class="edge"><title>t_using_make:e&#45;&gt;t_writing_shell_scripts:e</title>
-<path fill="none" stroke="black" d="M1590.07,-2394C1673.61,-2394 1721.44,-2422.48 1774.56,-2358 1876.29,-2234.5 1874.8,-2122.71 1774.56,-1998 1730.13,-1942.72 1689.46,-1960.11 1621.32,-1961.87"/>
-<polygon fill="black" stroke="black" points="1621.02,-1958.37 1611.07,-1962 1621.11,-1965.37 1621.02,-1958.37"/>
-</g>
-<!-- t_using_numpy&#45;&gt;t_data_types -->
-<g id="edge331" class="edge"><title>t_using_numpy:e&#45;&gt;t_data_types:e</title>
-<path fill="none" stroke="black" d="M1595.07,-3420C1676.43,-3420 1722.99,-3446.94 1774.56,-3384 1859.49,-3280.35 1857.16,-1077.52 1774.56,-972 1735.67,-922.309 1699.68,-934.456 1639.37,-935.875"/>
-<polygon fill="black" stroke="black" points="1639.02,-932.379 1629.07,-936 1639.11,-939.379 1639.02,-932.379"/>
-</g>
-<!-- t_using_numpy&#45;&gt;t_using_libraries -->
-<g id="edge332" class="edge"><title>t_using_numpy:e&#45;&gt;t_using_libraries:e</title>
-<path fill="none" stroke="black" d="M1595.07,-3420C1676.43,-3420 1722.99,-3446.94 1774.56,-3384 1848.08,-3294.27 1847.93,-1385.85 1774.56,-1296 1726.1,-1236.66 1682.07,-1257.93 1608.2,-1259.86"/>
-<polygon fill="black" stroke="black" points="1608.02,-1256.37 1598.07,-1260 1608.11,-1263.37 1608.02,-1256.37"/>
-</g>
-<!-- t_using_pandas&#45;&gt;t_data_types -->
-<g id="edge333" class="edge"><title>t_using_pandas:e&#45;&gt;t_data_types:e</title>
-<path fill="none" stroke="black" d="M1594.07,-1314C1675.87,-1314 1722.68,-1341.25 1774.56,-1278 1860.81,-1172.85 1858.39,-1079.09 1774.56,-972 1735.67,-922.309 1699.68,-934.456 1639.37,-935.875"/>
-<polygon fill="black" stroke="black" points="1639.02,-932.379 1629.07,-936 1639.11,-939.379 1639.02,-932.379"/>
-</g>
-<!-- t_using_pandas&#45;&gt;t_using_libraries -->
-<g id="edge334" class="edge"><title>t_using_pandas:e&#45;&gt;t_using_libraries:e</title>
-<path fill="none" stroke="black" d="M1607.68,-1263.88C1620.28,-1276.27 1614.18,-1314 1594.07,-1314"/>
-<polygon fill="black" stroke="black" points="1608.65,-1260.5 1598.07,-1260 1606.03,-1266.99 1608.65,-1260.5"/>
-</g>
-<!-- t_variable_scope&#45;&gt;t_variables_assignment -->
-<g id="edge335" class="edge"><title>t_variable_scope:e&#45;&gt;t_variables_assignment:e</title>
-<path fill="none" stroke="black" d="M1597.07,-2988C1677.56,-2988 1723.61,-3014.32 1774.56,-2952 1917.61,-2777.03 1914.68,-1095.32 1774.56,-918 1733.83,-866.458 1696.28,-880.329 1633.38,-881.87"/>
-<polygon fill="black" stroke="black" points="1633.02,-878.375 1623.07,-882 1633.11,-885.374 1633.02,-878.375"/>
-</g>
 <!-- t_python_functions&#45;&gt;t_python_conditionals -->
-<g id="edge336" class="edge"><title>t_python_functions:e&#45;&gt;t_python_conditionals:e</title>
+<g id="edge310" class="edge"><title>t_python_functions:e&#45;&gt;t_python_conditionals:e</title>
 <path fill="none" stroke="black" d="M1629.52,-3262.24C1639.53,-3274.97 1625.69,-3312 1605.07,-3312"/>
 <polygon fill="black" stroke="black" points="1630.62,-3258.89 1620.07,-3258 1627.76,-3265.28 1630.62,-3258.89"/>
 </g>
 <!-- t_python_functions&#45;&gt;t_variable_scope -->
-<g id="edge337" class="edge"><title>t_python_functions:e&#45;&gt;t_variable_scope:e</title>
+<g id="edge311" class="edge"><title>t_python_functions:e&#45;&gt;t_variable_scope:e</title>
 <path fill="none" stroke="black" d="M1605.07,-3312C1682.08,-3312 1726.09,-3335.85 1774.56,-3276 1845.05,-3188.97 1845.45,-3110.71 1774.56,-3024 1725.8,-2964.36 1681.53,-2985.9 1607.25,-2987.86"/>
 <polygon fill="black" stroke="black" points="1607.02,-2984.37 1597.07,-2988 1607.11,-2991.37 1607.02,-2984.37"/>
 </g>
+<!-- t_python_loops&#45;&gt;t_python_lists -->
+<g id="edge312" class="edge"><title>t_python_loops:e&#45;&gt;t_python_lists:e</title>
+<path fill="none" stroke="black" d="M1606.85,-2505.54C1621.7,-2517.56 1621.37,-2556 1601.07,-2556"/>
+<polygon fill="black" stroke="black" points="1607.66,-2502.12 1597.07,-2502 1605.28,-2508.7 1607.66,-2502.12"/>
+</g>
+<!-- t_read_csv&#45;&gt;t_using_pandas -->
+<g id="edge313" class="edge"><title>t_read_csv:e&#45;&gt;t_using_pandas:e</title>
+<path fill="none" stroke="black" d="M1603.71,-1316.9C1621.66,-1328.12 1628.28,-1368 1607.07,-1368"/>
+<polygon fill="black" stroke="black" points="1604.65,-1313.53 1594.07,-1314 1602.63,-1320.23 1604.65,-1313.53"/>
+</g>
+<!-- t_reproducibility&#45;&gt;t_documenting_requirements -->
+<g id="edge314" class="edge"><title>t_reproducibility:e&#45;&gt;t_documenting_requirements:e</title>
+<path fill="none" stroke="black" d="M1630.07,-2934C1696.25,-2934 1733.81,-2950.15 1774.56,-2898 1843.52,-2809.75 1841.67,-2735.67 1774.56,-2646 1742.62,-2603.32 1712.66,-2609.06 1662.1,-2609.91"/>
+<polygon fill="black" stroke="black" points="1662.03,-2606.41 1652.07,-2610 1662.1,-2613.41 1662.03,-2606.41"/>
+</g>
+<!-- t_reproducibility&#45;&gt;t_metadata -->
+<g id="edge315" class="edge"><title>t_reproducibility:e&#45;&gt;t_metadata:e</title>
+<path fill="none" stroke="black" d="M1630.07,-2934C1696.25,-2934 1733.81,-2950.15 1774.56,-2898 1849.68,-2801.87 1851.51,-796.67 1774.56,-702 1727.38,-643.957 1684.42,-663.947 1612.42,-665.86"/>
+<polygon fill="black" stroke="black" points="1612.02,-662.365 1602.07,-666 1612.11,-669.364 1612.02,-662.365"/>
+</g>
+<!-- t_reproducibility&#45;&gt;t_program_configuration -->
+<g id="edge316" class="edge"><title>t_reproducibility:e&#45;&gt;t_program_configuration:e</title>
+<path fill="none" stroke="black" d="M1624.9,-2882.9C1643.4,-2894.12 1651.47,-2934 1630.07,-2934"/>
+<polygon fill="black" stroke="black" points="1625.65,-2879.47 1615.07,-2880 1623.67,-2886.19 1625.65,-2879.47"/>
+</g>
+<!-- t_reproducibility&#45;&gt;t_tracking_provenance -->
+<g id="edge317" class="edge"><title>t_reproducibility:e&#45;&gt;t_tracking_provenance:e</title>
+<path fill="none" stroke="black" d="M1630.07,-2934C1696.25,-2934 1733.81,-2950.15 1774.56,-2898 1898.94,-2738.83 1901.01,-1237.53 1774.56,-1080 1730.43,-1025.02 1690,-1042.14 1622.26,-1043.87"/>
+<polygon fill="black" stroke="black" points="1622.02,-1040.37 1612.07,-1044 1622.11,-1047.37 1622.02,-1040.37"/>
+</g>
+<!-- t_selecting_data&#45;&gt;t_introducing_relational_databases -->
+<g id="edge318" class="edge"><title>t_selecting_data:e&#45;&gt;t_introducing_relational_databases:e</title>
+<path fill="none" stroke="black" d="M1650.47,-75.5431C1658.58,-87.5566 1622.43,-126 1596.07,-126"/>
+<polygon fill="black" stroke="black" points="1651.66,-72.2507 1641.07,-72 1649.19,-78.8012 1651.66,-72.2507"/>
+</g>
+<!-- t_taschuks_rules&#45;&gt;t_environment_variables -->
+<g id="edge319" class="edge"><title>t_taschuks_rules:e&#45;&gt;t_environment_variables:e</title>
+<path fill="none" stroke="black" d="M1662.07,-3690C1714.56,-3690 1743.61,-3696.4 1774.56,-3654 1851.21,-3549 1855.67,-2585.6 1774.56,-2484 1731.69,-2430.3 1692.33,-2446.19 1626.43,-2447.87"/>
+<polygon fill="black" stroke="black" points="1626.02,-2444.37 1616.07,-2448 1626.11,-2451.37 1626.02,-2444.37"/>
+</g>
+<!-- t_taschuks_rules&#45;&gt;t_program_configuration -->
+<g id="edge320" class="edge"><title>t_taschuks_rules:e&#45;&gt;t_program_configuration:e</title>
+<path fill="none" stroke="black" d="M1662.07,-3690C1714.56,-3690 1743.61,-3696.4 1774.56,-3654 1871.25,-3521.54 1876.97,-3044.1 1774.56,-2916 1731.31,-2861.9 1691.63,-2878.22 1625.08,-2879.87"/>
+<polygon fill="black" stroke="black" points="1625.02,-2876.37 1615.07,-2880 1625.11,-2883.37 1625.02,-2876.37"/>
+</g>
+<!-- t_task_farming&#45;&gt;t_computer_architecture -->
+<g id="edge321" class="edge"><title>t_task_farming:e&#45;&gt;t_computer_architecture:e</title>
+<path fill="none" stroke="black" d="M1594.07,-1584C1675.87,-1584 1722.68,-1611.25 1774.56,-1548 1821.52,-1490.75 1704.29,-1477.13 1626.31,-1476.07"/>
+<polygon fill="black" stroke="black" points="1626.09,-1472.57 1616.07,-1476 1626.04,-1479.57 1626.09,-1472.57"/>
+</g>
+<!-- t_task_farming&#45;&gt;t_writing_shell_loops -->
+<g id="edge322" class="edge"><title>t_task_farming:e&#45;&gt;t_writing_shell_loops:e</title>
+<path fill="none" stroke="black" d="M1634.45,-1534.24C1642.18,-1546.97 1616.98,-1584 1594.07,-1584"/>
+<polygon fill="black" stroke="black" points="1635.62,-1530.93 1625.07,-1530 1632.74,-1537.31 1635.62,-1530.93"/>
+</g>
+<!-- t_trace_execution&#45;&gt;t_call_stack -->
+<g id="edge323" class="edge"><title>t_trace_execution:e&#45;&gt;t_call_stack:e</title>
+<path fill="none" stroke="black" d="M1642.57,-3045.88C1654.76,-3058.27 1647.25,-3096 1627.07,-3096"/>
+<polygon fill="black" stroke="black" points="1643.65,-3042.54 1633.07,-3042 1641,-3049.02 1643.65,-3042.54"/>
+</g>
+<!-- t_trace_execution&#45;&gt;t_logging -->
+<g id="edge324" class="edge"><title>t_trace_execution:e&#45;&gt;t_logging:e</title>
+<path fill="none" stroke="black" d="M1627.07,-3096C1694.54,-3096 1732.89,-3113.07 1774.56,-3060 1868.44,-2940.45 1868.25,-2495.69 1774.56,-2376 1735.67,-2326.31 1699.68,-2338.46 1639.37,-2339.88"/>
+<polygon fill="black" stroke="black" points="1639.02,-2336.38 1629.07,-2340 1639.11,-2343.38 1639.02,-2336.38"/>
+</g>
+<!-- t_trace_execution&#45;&gt;t_variables_assignment -->
+<g id="edge325" class="edge"><title>t_trace_execution:e&#45;&gt;t_variables_assignment:e</title>
+<path fill="none" stroke="black" d="M1627.07,-3096C1694.54,-3096 1732.89,-3113.07 1774.56,-3060 1848.06,-2966.41 1848.34,-1011.37 1774.56,-918 1733.83,-866.458 1696.28,-880.329 1633.38,-881.87"/>
+<polygon fill="black" stroke="black" points="1633.02,-878.375 1623.07,-882 1633.11,-885.374 1633.02,-878.375"/>
+</g>
+<!-- t_tracking_provenance&#45;&gt;t_recording_history -->
+<g id="edge326" class="edge"><title>t_tracking_provenance:e&#45;&gt;t_recording_history:e</title>
+<path fill="none" stroke="black" d="M1614.66,-993.216C1630.66,-1004.84 1632.67,-1044 1612.07,-1044"/>
+<polygon fill="black" stroke="black" points="1615.66,-989.86 1605.07,-990 1613.43,-996.497 1615.66,-989.86"/>
+</g>
+<!-- t_update_data&#45;&gt;t_selecting_data -->
+<g id="edge327" class="edge"><title>t_update_data:e&#45;&gt;t_selecting_data:e</title>
+<path fill="none" stroke="black" d="M1596.07,-396C1676.99,-396 1723.3,-422.628 1774.56,-360 1830.3,-291.901 1830.3,-230.099 1774.56,-162 1725.51,-102.063 1680.98,-123.876 1606.31,-125.862"/>
+<polygon fill="black" stroke="black" points="1606.02,-122.365 1596.07,-126 1606.11,-129.365 1606.02,-122.365"/>
+</g>
+<!-- t_update_repository&#45;&gt;t_add_to_repository -->
+<g id="edge328" class="edge"><title>t_update_repository:e&#45;&gt;t_add_to_repository:e</title>
+<path fill="none" stroke="black" d="M1615.07,-4392C1687.74,-4392 1729.18,-4412.76 1774.56,-4356 1881.96,-4221.65 1880.47,-2943.53 1774.56,-2808 1735.96,-2758.6 1700.22,-2770.49 1640.3,-2771.88"/>
+<polygon fill="black" stroke="black" points="1640.02,-2768.38 1630.07,-2772 1640.11,-2775.38 1640.02,-2768.38"/>
+</g>
+<!-- t_use_package_manager&#45;&gt;t_filesystem_layout -->
+<g id="edge329" class="edge"><title>t_use_package_manager:e&#45;&gt;t_filesystem_layout:e</title>
+<path fill="none" stroke="black" d="M1624.07,-3204C1692.84,-3204 1731.96,-3221.99 1774.56,-3168 1851.37,-3070.65 1850.33,-2150.16 1774.56,-2052 1738.07,-2004.73 1704.15,-2014.66 1647.19,-2015.89"/>
+<polygon fill="black" stroke="black" points="1647.03,-2012.39 1637.07,-2016 1647.1,-2019.39 1647.03,-2012.39"/>
+</g>
+<!-- t_use_package_manager&#45;&gt;t_installing_software -->
+<g id="edge330" class="edge"><title>t_use_package_manager:e&#45;&gt;t_installing_software:e</title>
+<path fill="none" stroke="black" d="M1616.84,-3152.75C1636.09,-3163.76 1645.79,-3204 1624.07,-3204"/>
+<polygon fill="black" stroke="black" points="1617.64,-3149.34 1607.07,-3150 1615.74,-3156.08 1617.64,-3149.34"/>
+</g>
+<!-- t_using_libraries&#45;&gt;t_variables_assignment -->
+<g id="edge331" class="edge"><title>t_using_libraries:e&#45;&gt;t_variables_assignment:e</title>
+<path fill="none" stroke="black" d="M1598.07,-1260C1678.12,-1260 1723.92,-1286.01 1774.56,-1224 1860.58,-1118.66 1858.88,-1024.71 1774.56,-918 1733.83,-866.458 1696.28,-880.329 1633.38,-881.87"/>
+<polygon fill="black" stroke="black" points="1633.02,-878.375 1623.07,-882 1633.11,-885.374 1633.02,-878.375"/>
+</g>
+<!-- t_using_make&#45;&gt;t_writing_shell_scripts -->
+<g id="edge332" class="edge"><title>t_using_make:e&#45;&gt;t_writing_shell_scripts:e</title>
+<path fill="none" stroke="black" d="M1590.07,-2394C1673.61,-2394 1721.44,-2422.48 1774.56,-2358 1876.29,-2234.5 1874.8,-2122.71 1774.56,-1998 1730.13,-1942.72 1689.46,-1960.11 1621.32,-1961.87"/>
+<polygon fill="black" stroke="black" points="1621.02,-1958.37 1611.07,-1962 1621.11,-1965.37 1621.02,-1958.37"/>
+</g>
+<!-- t_using_numpy&#45;&gt;t_data_types -->
+<g id="edge333" class="edge"><title>t_using_numpy:e&#45;&gt;t_data_types:e</title>
+<path fill="none" stroke="black" d="M1595.07,-3420C1676.43,-3420 1722.99,-3446.94 1774.56,-3384 1859.49,-3280.35 1857.16,-1077.52 1774.56,-972 1735.67,-922.309 1699.68,-934.456 1639.37,-935.875"/>
+<polygon fill="black" stroke="black" points="1639.02,-932.379 1629.07,-936 1639.11,-939.379 1639.02,-932.379"/>
+</g>
+<!-- t_using_numpy&#45;&gt;t_using_libraries -->
+<g id="edge334" class="edge"><title>t_using_numpy:e&#45;&gt;t_using_libraries:e</title>
+<path fill="none" stroke="black" d="M1595.07,-3420C1676.43,-3420 1722.99,-3446.94 1774.56,-3384 1848.08,-3294.27 1847.93,-1385.85 1774.56,-1296 1726.1,-1236.66 1682.07,-1257.93 1608.2,-1259.86"/>
+<polygon fill="black" stroke="black" points="1608.02,-1256.37 1598.07,-1260 1608.11,-1263.37 1608.02,-1256.37"/>
+</g>
+<!-- t_using_pandas&#45;&gt;t_data_types -->
+<g id="edge335" class="edge"><title>t_using_pandas:e&#45;&gt;t_data_types:e</title>
+<path fill="none" stroke="black" d="M1594.07,-1314C1675.87,-1314 1722.68,-1341.25 1774.56,-1278 1860.81,-1172.85 1858.39,-1079.09 1774.56,-972 1735.67,-922.309 1699.68,-934.456 1639.37,-935.875"/>
+<polygon fill="black" stroke="black" points="1639.02,-932.379 1629.07,-936 1639.11,-939.379 1639.02,-932.379"/>
+</g>
+<!-- t_using_pandas&#45;&gt;t_using_libraries -->
+<g id="edge336" class="edge"><title>t_using_pandas:e&#45;&gt;t_using_libraries:e</title>
+<path fill="none" stroke="black" d="M1607.68,-1263.88C1620.28,-1276.27 1614.18,-1314 1594.07,-1314"/>
+<polygon fill="black" stroke="black" points="1608.65,-1260.5 1598.07,-1260 1606.03,-1266.99 1608.65,-1260.5"/>
+</g>
+<!-- t_variable_scope&#45;&gt;t_variables_assignment -->
+<g id="edge337" class="edge"><title>t_variable_scope:e&#45;&gt;t_variables_assignment:e</title>
+<path fill="none" stroke="black" d="M1597.07,-2988C1677.56,-2988 1723.61,-3014.32 1774.56,-2952 1917.61,-2777.03 1914.68,-1095.32 1774.56,-918 1733.83,-866.458 1696.28,-880.329 1633.38,-881.87"/>
+<polygon fill="black" stroke="black" points="1633.02,-878.375 1623.07,-882 1633.11,-885.374 1633.02,-878.375"/>
+</g>
+<!-- t_writing_programs&#45;&gt;t_python_functions -->
+<g id="edge338" class="edge"><title>t_writing_programs:e&#45;&gt;t_python_functions:e</title>
+<path fill="none" stroke="black" d="M1643.07,-3474C1703.66,-3474 1737.81,-3486.17 1774.56,-3438 1798.83,-3406.2 1799.74,-3379.08 1774.56,-3348 1728.27,-3290.84 1686.04,-3310.03 1615.25,-3311.87"/>
+<polygon fill="black" stroke="black" points="1615.02,-3308.37 1605.07,-3312 1615.11,-3315.37 1615.02,-3308.37"/>
+</g>
 <!-- t_writing_programs&#45;&gt;t_using_libraries -->
-<g id="edge338" class="edge"><title>t_writing_programs:e&#45;&gt;t_using_libraries:e</title>
+<g id="edge339" class="edge"><title>t_writing_programs:e&#45;&gt;t_using_libraries:e</title>
 <path fill="none" stroke="black" d="M1643.07,-3474C1703.66,-3474 1737.81,-3486.17 1774.56,-3438 1846.75,-3343.39 1849.83,-1388.17 1774.56,-1296 1726.1,-1236.66 1682.07,-1257.93 1608.2,-1259.86"/>
 <polygon fill="black" stroke="black" points="1608.02,-1256.37 1598.07,-1260 1608.11,-1263.37 1608.02,-1256.37"/>
 </g>
 <!-- t_writing_programs&#45;&gt;t_using_numpy -->
-<g id="edge339" class="edge"><title>t_writing_programs:e&#45;&gt;t_using_numpy:e</title>
+<g id="edge340" class="edge"><title>t_writing_programs:e&#45;&gt;t_using_numpy:e</title>
 <path fill="none" stroke="black" d="M1605.24,-3421.56C1636.1,-3430.41 1671.92,-3474 1643.07,-3474"/>
 <polygon fill="black" stroke="black" points="1605.48,-3418.05 1595.07,-3420 1604.42,-3424.97 1605.48,-3418.05"/>
 </g>
 <!-- t_writing_programs&#45;&gt;t_using_pandas -->
-<g id="edge340" class="edge"><title>t_writing_programs:e&#45;&gt;t_using_pandas:e</title>
+<g id="edge341" class="edge"><title>t_writing_programs:e&#45;&gt;t_using_pandas:e</title>
 <path fill="none" stroke="black" d="M1643.07,-3474C1703.66,-3474 1737.81,-3486.17 1774.56,-3438 1915.3,-3253.56 1921.7,-1529.38 1774.56,-1350 1724.91,-1289.47 1679.9,-1311.83 1604.42,-1313.86"/>
 <polygon fill="black" stroke="black" points="1604.02,-1310.36 1594.07,-1314 1604.11,-1317.36 1604.02,-1310.36"/>
-</g>
-<!-- t_writing_programs&#45;&gt;t_python_functions -->
-<g id="edge341" class="edge"><title>t_writing_programs:e&#45;&gt;t_python_functions:e</title>
-<path fill="none" stroke="black" d="M1643.07,-3474C1703.66,-3474 1737.81,-3486.17 1774.56,-3438 1798.83,-3406.2 1799.74,-3379.08 1774.56,-3348 1728.27,-3290.84 1686.04,-3310.03 1615.25,-3311.87"/>
-<polygon fill="black" stroke="black" points="1615.02,-3308.37 1605.07,-3312 1615.11,-3315.37 1615.02,-3308.37"/>
 </g>
 <!-- t_writing_shell_scripts&#45;&gt;t_managing_files -->
 <g id="edge342" class="edge"><title>t_writing_shell_scripts:e&#45;&gt;t_managing_files:e</title>

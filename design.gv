@@ -197,6 +197,7 @@ digraph scb {
 		t_programming_databases [label="Programming Databases"];
 		t_python_conditionals [label="Conditional Expressions"];
 		t_python_dictionaries [label="Python Dictionaries", fillcolor="honeydew", style="filled"];
+		t_python_functions [label="Writing Functions"];
 		t_python_lists [label="Lists in Python"];
 		t_python_loops [label="Loops in Python"];
 		t_read_csv [label="Reading CSV Files"];
@@ -227,7 +228,6 @@ digraph scb {
 		t_variable_scope [label="Variable Scope"];
 		t_variables_assignment [label="Variables and Assignment"];
 		t_what_not_to_store [label="What Not to Put in Version Control"];
-		t_python_functions [label="Writing Functions"];
 		t_writing_programs [label="Writing Command-Line Programs"];
 		t_writing_shell_loops [label="Writing Loops in the Shell"];
 		t_writing_shell_scripts [label="Writing Shell Scripts"];
@@ -489,10 +489,10 @@ digraph scb {
 	m_python_1:e -> t_variables_assignment:w;
 	m_python_2:e -> t_call_stack:w;
 	m_python_2:e -> t_python_conditionals:w;
+	m_python_2:e -> t_python_functions:w;
 	m_python_2:e -> t_python_lists:w;
 	m_python_2:e -> t_python_loops:w;
 	m_python_2:e -> t_variable_scope:w;
-	m_python_2:e -> t_python_functions:w;
 	m_python_2:e -> t_writing_programs:w;
 	m_python_3:e -> t_python_dictionaries:w;
 	m_python_3:e -> t_using_numpy:w;
@@ -562,6 +562,8 @@ digraph scb {
 	t_program_configuration:e -> t_ignoring_files:e;
 	t_programming_databases:e -> t_selecting_data:e;
 	t_python_conditionals:e -> t_boolean_operators:e;
+	t_python_functions:e -> t_python_conditionals:e;
+	t_python_functions:e -> t_variable_scope:e;
 	t_python_loops:e -> t_python_lists:e;
 	t_read_csv:e -> t_using_pandas:e;
 	t_reproducibility:e -> t_documenting_requirements:e;
@@ -588,12 +590,10 @@ digraph scb {
 	t_using_pandas:e -> t_data_types:e;
 	t_using_pandas:e -> t_using_libraries:e;
 	t_variable_scope:e -> t_variables_assignment:e;
-	t_python_functions:e -> t_python_conditionals:e;
-	t_python_functions:e -> t_variable_scope:e;
+	t_writing_programs:e -> t_python_functions:e;
 	t_writing_programs:e -> t_using_libraries:e;
 	t_writing_programs:e -> t_using_numpy:e;
 	t_writing_programs:e -> t_using_pandas:e;
-	t_writing_programs:e -> t_python_functions:e;
 	t_writing_shell_scripts:e -> t_managing_files:e;
 	t_writing_shell_scripts:e -> t_navigating_file_system:e;
 	t_writing_shell_scripts:e -> t_pipes_filters:e;

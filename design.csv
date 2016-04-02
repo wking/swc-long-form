@@ -155,6 +155,7 @@ node,t_program_configuration,"Configuring Programs"
 node,t_programming_databases,"Programming Databases"
 node,t_python_conditionals,"Conditional Expressions"
 node,t_python_dictionaries,"Python Dictionaries"
+node,t_python_functions,"Writing Functions"
 node,t_python_lists,"Lists in Python"
 node,t_python_loops,"Loops in Python"
 node,t_read_csv,"Reading CSV Files"
@@ -185,7 +186,6 @@ node,t_using_web_authoring,"Using Web-based Authoring Tools"
 node,t_variable_scope,"Variable Scope"
 node,t_variables_assignment,"Variables and Assignment"
 node,t_what_not_to_store,"What Not to Put in Version Control"
-node,t_python_functions,"Writing Functions"
 node,t_writing_programs,"Writing Command-Line Programs"
 node,t_writing_shell_loops,"Writing Loops in the Shell"
 node,t_writing_shell_scripts,"Writing Shell Scripts"
@@ -218,8 +218,7 @@ link,q_make_collaboration_easy,a_get_orcid
 link,q_make_collaboration_easy,a_master_manuscript_online
 link,q_make_collaboration_easy,a_project_todo_list
 link,q_make_collaboration_easy,a_record_publishing_steps
-link,q_make_collaboration_easy,a_results_repeatable;
-link,q_make_collaboration_easy,a_set_up_development
+link,q_make_collaboration_easy,a_results_repeatable
 link,q_make_collaboration_easy,a_set_up_development
 link,q_make_collaboration_easy,a_specify_citation
 link,q_make_collaboration_easy,a_specify_license
@@ -309,7 +308,6 @@ link,a_normalize_data,m_data_management
 link,a_open_text_formats,m_collaboration
 link,a_open_text_formats,m_data_management
 link,a_profile_performance,m_performance
-link,a_profile_performance,m_performance
 link,a_project_todo_list,m_collaboration
 link,a_project_todo_list,m_project_organization
 link,a_read_error_messages,m_python_1
@@ -390,6 +388,7 @@ link,m_debugging,t_logging
 link,m_debugging,t_trace_execution
 link,m_git,t_add_to_repository
 link,m_git,t_choosing_repository_host
+link,m_git,t_creating_repository
 link,m_git,t_good_commit_comments
 link,m_git,t_ignoring_files
 link,m_git,t_introducing_version_control
@@ -417,6 +416,7 @@ link,m_project_organization,t_documenting_requirements
 link,m_project_organization,t_issue_tracking
 link,m_project_organization,t_nobles_rules
 link,m_project_organization,t_setting_up_for_development
+link,m_project_organization,t_taschuks_rules
 link,m_publishing,t_blogging
 link,m_publishing,t_getting_doi
 link,m_publishing,t_open_license
@@ -429,10 +429,12 @@ link,m_python_1,t_reading_error_messages
 link,m_python_1,t_using_libraries
 link,m_python_1,t_using_pandas
 link,m_python_1,t_variables_assignment
+link,m_python_2,t_call_stack
+link,m_python_2,t_python_conditionals
+link,m_python_2,t_python_functions
 link,m_python_2,t_python_lists
 link,m_python_2,t_python_loops
 link,m_python_2,t_variable_scope
-link,m_python_2,t_python_functions
 link,m_python_2,t_writing_programs
 link,m_python_3,t_python_dictionaries
 link,m_python_3,t_using_numpy
@@ -445,6 +447,7 @@ link,m_spreadsheets,t_formatting_spreadsheets
 link,m_testing,t_coverage
 link,m_testing,t_creating_integrity_tests
 link,m_testing,t_writing_unit_tests
+link,m_unix,t_filename_extensions
 link,m_unix,t_filesystem_layout
 link,m_unix,t_finding_files
 link,m_unix,t_managing_files
@@ -452,6 +455,7 @@ link,m_unix,t_navigating_file_system
 link,m_unix,t_pipes_filters
 link,m_unix,t_recording_history
 link,m_unix,t_using_editor
+link,m_unix,t_writing_shell_loops
 link,m_unix,t_writing_shell_scripts
 link,m_visualization,t_choosing_visualization
 link,m_visualization,t_plotting
@@ -495,6 +499,8 @@ link,t_program_configuration,t_environment_variables
 link,t_program_configuration,t_ignoring_files
 link,t_programming_databases,t_selecting_data
 link,t_python_conditionals,t_boolean_operators
+link,t_python_functions,t_python_conditionals
+link,t_python_functions,t_variable_scope
 link,t_python_loops,t_python_lists
 link,t_read_csv,t_using_pandas
 link,t_reproducibility,t_documenting_requirements
@@ -521,12 +527,10 @@ link,t_using_numpy,t_using_libraries
 link,t_using_pandas,t_data_types
 link,t_using_pandas,t_using_libraries
 link,t_variable_scope,t_variables_assignment
-link,t_python_functions,t_python_conditionals
-link,t_python_functions,t_variable_scope
+link,t_writing_programs,t_python_functions
 link,t_writing_programs,t_using_libraries
 link,t_writing_programs,t_using_numpy
 link,t_writing_programs,t_using_pandas
-link,t_writing_programs,t_python_functions
 link,t_writing_shell_scripts,t_managing_files
 link,t_writing_shell_scripts,t_navigating_file_system
 link,t_writing_shell_scripts,t_pipes_filters
