@@ -32,6 +32,10 @@ site :
 graphical :
 	${DOT} -Tsvg design.gv > design.svg
 
+## bin/index.html: build HTML design graph
+html/index.html: design.csv bin/graph-html.py
+	./bin/graph-html.py < design.csv
+
 ## clean      : clean up junk files.
 clean :
 	@rm -rf _site
